@@ -1,0 +1,36 @@
+For each top 10 priority, identify 3 to 7 evidence-based actionable interventions or recommendations.
+
+Instructions:
+1. Focus on interventions that are broadly relevant across countries and healthcare systems, while recognizing the need for adaptation to context.
+
+2. Use peer-reviewed evidence and credible domain-specific reports if available.
+
+For each intervention, specify:
+- implementation level: whether the intervention is more appropriate at the clinical, organizational, or policy level 
+- the mechanism by which the intervention improves care
+- amount of resources required (low, medium, high)
+- implementation requirements
+- strength/type of supporting evidence
+- feasibility considerations
+- facilitators
+- barriers
+- scalability/transferability across settings
+- suggested indicators or metrics to track progress
+
+4. Distinguish:
+- interventions with strong international evidence 
+- interventions based mainly on case examples 
+- interventions that are promising but under-evaluated.
+
+5. Flag if a recommendation is highly context-sensitive or may be difficult to implement in resource-constrained settings.
+
+6. Avoid vague recommendations such as “improve coordination” unless you specify what concrete actions that means.
+
+7. Do not invent evidence or overstate certainty.
+
+Output format:
+A. Priority-by-priority evidence-based intervention list
+B. Cross-cutting intervention strategies that apply to multiple priorities
+C. Most high-yield high-impact interventions
+D. Interventions feasible across a range of settings (low income, lower-middle income, upper-middle income, and high-income settings)
+E. Evidence gaps and research needs

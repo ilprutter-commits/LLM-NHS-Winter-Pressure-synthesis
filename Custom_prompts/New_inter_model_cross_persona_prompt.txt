@@ -1,0 +1,122 @@
+I have outputs from multiple personas who have been tasked with identifying priorities relating to the NHS winter pressure improvement priorities and evidence-based interventions.  
+
+  
+
+Synthesise these healthcare priorities identified by  the following personas: 
+
+1. Member of the British public 
+
+2. A caregiver/patient 
+
+3. UK general practitioner 
+
+4. general medical consultant within A&E 
+
+5. respiratory or care of the elderly specialist 
+
+6. commissioner of health care in an ICB 
+
+7. Med tech or health tech company CEO 
+
+ 
+
+ 
+
+Tasks:  
+
+1. Merge overlapping priorities across models.  
+
+  
+
+2. Normalise terminology where different personas describe the same issue differently.  
+
+  
+
+3. Identify:  
+
+- areas of broad agreement across models,  
+
+- priorities consistently ranked highly,  
+
+- priorities raised by only one or two models,  
+
+- differences in framing, scope, or level of abstraction.  
+
+  
+
+4. Distinguish whether differences appear due to:- stakeholder persona,  
+
+- source emphasis,  
+
+- overgeneralization,  
+
+- likely hallucination or unsupported inference.  
+
+  
+
+5. Produce:  
+
+- a consolidated priority list,  
+
+- a final top-priority shortlist,  
+
+- a consolidated set of evidence-based interventions.  
+
+  
+
+6. Flag uncertain or weakly supported items.  
+
+ 
+
+7.Identify which priorities appear robust across perspectives and therefore are strongest candidates for our relevant healthcare improvement agenda. 
+
+ 
+
+8. Recommend a final balanced list of priorities that integrates all five perspectives. While keeping the synthesis suitable for use in a manuscript for publication.  
+
+9. Reference all papers, research, policies and your sources in intext citations and full references to be collated in a full reference list
+  
+
+Avoid generic healthcare improvement of language. I need a concrete, discriminating, research-useful output.  
+
+  
+
+Additional requirements:  
+
+- Consolidate duplicate concepts.  
+
+- Distinguish the problem from intervention.  
+
+- Avoid broad umbrella labels unless you specify their concrete components.  
+
+- Highlight where priorities are often overlooked.  
+
+- Include priorities relevant to safety, timeliness, effectiveness, efficiency/low-value care, health disparities, person-centeredness, and environmental sustainability.    
+
+- Prefer interventions that are feasible across a range of settings (low income, lower-middle income, upper-middle income, and high-income settings)  
+
+- State where evidence is strong, mixed, report-based, or underdeveloped.  
+
+- Indicate likely implementation level:  
+
+clinical / team / organizational / system / policy.  
+
+- Note where interventions might unintentionally worsen health disparities, workload, or environmental burden.  
+
+  
+
+Output format:  
+
+A. Consolidated priority map  
+
+B. Agreement/disagreement across personas 
+
+C. Final integrated shortlist  
+
+D. Consolidated interventions/recommendations  
+
+E. Uncertain or contested items  
+
+F. Methodological note on cross-model variation 
+
+G. Reference list

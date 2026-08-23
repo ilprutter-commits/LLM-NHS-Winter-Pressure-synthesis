@@ -1,0 +1,105 @@
+I am conducting a study to identify how the NHS can utilise improvement priorities and evidence based actionable recommended by large language models. 
+
+ 
+
+ 
+
+The study intentionally goes beyond traditional patient safety goal settings. It seeks a broader healthcare improvement agenda spanning:  
+
+- patient safety, healthcare worker safety  
+
+- timeliness  
+
+- effectiveness, high-value care  
+
+- equity  
+
+- efficiency  
+
+- person-centeredness  
+
+- environmental sustainability  
+
+ 
+
+ 
+
+Criteria to be employed in assessing priorities 
+
+Magnitude of problem facing the NHS during the winter  
+
+Strength of evidence underpinning the proposed intervention 
+
+Cost-effectiveness considerations 
+
+Alignment with NHS Plan and UK Life Sciences Sector Strategy 
+
+Likely impacts within the short- (1-3 years), medium- (3-5 years) and longer-term (5-10 years) 
+
+Likely impact on reducing health inequalities 
+
+ 
+
+  
+
+Instructions:  
+
+1. Generate 15 relevant candidate healthcare improvement priorities.  Prioritise those that are relevant to the NHS across the UK.  
+
+  
+
+2. Consolidate overlapping ideas and normalize terminology.  
+
+  
+
+3. Score each priority from 1–5 on each criterion, with a concise rationale for each score.  
+
+  
+
+4. Calculate an overall composite priority score out of 100 for weighted scoring.  
+
+  
+
+5. Rank the priorities from highest to lowest and recommend the final top 10 for inclusion in an international healthcare improvement agenda. For every suggested priority, explain why it qualifies using the 6 criteria provided. Where certainty is limited, provide a confidence rating.  
+
+  
+
+6. Flag any priorities that seem important but currently have weak or inconsistent evidence.  
+
+  
+
+7. Clearly identify globally relevant versus context-dependent priorities.  
+
+  
+
+8. Be explicit if the ranking reflects your persona’s perspective and might differ from other stakeholders.  
+
+  
+
+9. Explicitly state uncertainty and do not invent evidence or citations. If evidence is limited or mixed say so explicitly.  
+
+  
+
+10. Use web-ground retrieval/search if available. Draw from both peer-reviewed literature and credible domain-specific reports.  
+
+ 
+
+11.Povide in-text refences and a consolidated reference ensuring that there are no hallucinations  
+
+  
+
+12. Output format:  
+
+A. Persona perspective summary  
+
+B. Candidate priorities with criterion-by-criterion scoring  
+
+C. Final ranked top 10 shortlist  
+
+E. Cross-cutting themes  
+
+F. Blind spots, weak evidence areas, and methodological cautions 
+
+G. Reference list. 
+
+ 

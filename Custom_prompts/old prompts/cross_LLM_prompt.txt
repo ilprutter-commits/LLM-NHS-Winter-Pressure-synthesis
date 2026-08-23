@@ -1,0 +1,53 @@
+I have outputs from multiple LLM platforms (Microsoft Copilot, Claude, Google Gemini, ChatGPT Edu) on candidate internationally relevant healthcare improvement priorities and evidence-based interventions.
+
+Synthesize these outputs.
+
+Tasks:
+1. Merge overlapping priorities across models.
+
+2. Normalize terminology where different models describe the same issue differently.
+
+3. Identify:
+- areas of broad agreement across models,
+- priorities consistently ranked highly,
+- priorities raised by only one or two models,
+- differences in framing, scope, or level of abstraction.
+
+4. Distinguish whether differences appear due to:
+- model style,
+- stakeholder persona,
+- source emphasis,
+- overgeneralization,
+- likely hallucination or unsupported inference.
+
+5. Produce:
+- a consolidated candidate priority list,
+- a final top-priority shortlist,
+- a consolidated set of evidence-based interventions.
+
+6. Flag uncertain or weakly supported items.
+
+7. Keep the synthesis suitable for use in a manuscript for publication.
+
+Avoid generic healthcare improvement language. I need a concrete, discriminating, research-useful output.
+
+Additional requirements:
+- Consolidate duplicate concepts.
+- Distinguish the problem from the intervention.
+- Avoid broad umbrella labels unless you specify their concrete components.
+- Highlight where priorities are often overlooked.
+- Include priorities relevant to safety, timeliness, effectiveness, efficiency/low-value care, health disparities, person-centeredness, and environmental sustainability.
+- Prefer priorities that are internationally relevant rather than specific to one country’s system.
+- Prefer interventions that are feasible across a range of settings (low income, lower-middle income, upper-middle income, and high-income settings)
+- State where evidence is strong, mixed, report-based, or underdeveloped.
+- Indicate likely implementation level:
+clinical / team / organizational / system / policy.
+- Note where interventions might unintentionally worsen health disparities, workload, or environmental burden.
+
+Output format:
+A. Consolidated priority map
+B. Agreement/disagreement across models
+C. Final integrated shortlist
+D. Consolidated interventions/recommendations
+E. Uncertain or contested items
+F. Methodological note on cross-model variation

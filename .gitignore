@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*-API-Key.txt
+*-API-key.txt
+LLM_project_outputs/

@@ -1,0 +1,52 @@
+
+I am conducting a study to identify internationally relevant healthcare improvement priorities and evidence-based actionable recommendations using large language models.
+
+The study intentionally goes beyond traditional patient safety goal setting. It seeks a broader healthcare improvement agenda spanning:
+- patient safety, healthcare worker safety
+- timeliness
+- effectiveness, high-value care
+- equity
+- efficiency
+- person-centeredness
+- environmental sustainability
+
+Candidate priorities should be assessed using these 10 criteria:
+1. Magnitude of problem
+2. Impact on health outcomes
+3. Equity relevance
+4. Feasibility and resource appropriateness
+5. Evidence base
+6. Measurability
+7. Adaptability across contexts
+8. System-level influence
+9. Sustainability potential
+10. Scalability and transferability
+
+Instructions:
+1. Generate 15 internationally relevant candidate healthcare improvement priorities. Prioritize those that are internationally relevant across different countries, health systems, and income/resource settings, and should be addressed within the next 5 years.
+
+2. Consolidate overlapping ideas and normalize terminology.
+
+3. Score each priority from 1–5 on each criterion, with a concise rationale for each score.
+
+4. Calculate an overall composite priority score out of 100 for weighted scoring.
+
+5. Rank the priorities from highest to lowest and recommend the final top 10 for inclusion in an international healthcare improvement agenda. For every suggested priority, explain why it qualifies using the 10 criteria provided. Where certainty is limited, provide a confidence rating.
+
+6. Flag any priorities that seem important but currently have weak or inconsistent evidence.
+
+7. Clearly identify globally relevant versus context-dependent priorities.
+
+8. Be explicit if the ranking reflects your persona’s perspective and might differ from other stakeholders.
+
+9. Explicitly state uncertainty and do not invent evidence or citations. If evidence is limited or mixed say so explicitly.
+
+10. Use web-grounded retrieval/search if available. Draw from both peer-reviewed literature and credible domain-specific reports.
+
+11. Output format:
+A. Persona perspective summary
+B. Candidate priorities with criterion-by-criterion scoring
+C. Final ranked top 10 shortlist
+E. Cross-cutting themes
+F. Blind spots, weak evidence areas, and methodological cautions
+G. Reasons some important topics did not make the top shortlist

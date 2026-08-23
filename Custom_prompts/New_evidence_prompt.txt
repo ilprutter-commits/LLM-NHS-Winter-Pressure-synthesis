@@ -1,0 +1,83 @@
+For each top 10 priority, identify 3 to 7 evidence-based actionable interventions or recommendations.  
+
+  
+
+Instructions:  
+
+1. Focus on the interventions that are directly relevant to the NHS and its winter pressures issue.  
+
+  
+
+2. Using only peer reviewed evidence from the last 10 years.  Iinterventions MUST be back by evidence.  
+
+ 
+
+3. Evidence will only be considered in the following manner.  
+
+First establish if there is peer reviewed evidence from reputable journals. 
+
+Subsequently establish if there are governmental sources. These types of sources do not have to be produced by the UK government but must relate to UK health system. 
+
+Lastly establish other sources, for which you have the freedom. However, these further sources must be scientifically reputable and highlighted as not part of the two types of sources detailed above 
+
+  
+
+For each intervention, specify:  
+
+- implementation level: whether the intervention is more appropriate at the clinical, organizational, or policy level   
+
+- the mechanism by which the intervention improves care  
+
+- The amount of resources required (Give short detail as to if what low, medium or high resources looks like)  
+
+- implementation requirements  
+
+- strength/type of supporting evidence  
+
+- feasibility considerations - Flag how long the recommendations are likely to take (within 3 years, within 5 years, within 10 years 
+
+ 
+
+- barriers  
+
+ 
+
+- suggested indicators or metrics to track progress  
+
+  
+
+4. Distinguish:  
+
+- interventions with strong evidence   
+
+- interventions based mainly on case examples   
+
+- interventions that are promising but undervalued.  When distinguishing this, note why you think they are undervalued  
+
+  
+
+5. Flag if a recommendation is highly context-sensitive or may be difficult to implement in resource-constrained settings like the NHS.  
+
+ 
+
+6. Avoid vague recommendations such as “improve coordination” unless you specify what concrete action that means.  
+
+  
+
+7. Do not invent evidence or overstate certainty.  For all evidence used provide the references in a in text reference and at the end provide an organised reference list. 
+
+  
+
+Output format:  
+
+A. Priority-by-priority evidence-based intervention list  
+
+B. Cross-cutting intervention strategies that apply to multiple priorities  
+
+C. Most high-yield high-impact interventions  
+
+D. Interventions feasible across a range of settings (low income, lower-middle income, upper-middle income, and high-income settings)  
+
+E. Evidence gaps and research needs
+
+G. Reference list

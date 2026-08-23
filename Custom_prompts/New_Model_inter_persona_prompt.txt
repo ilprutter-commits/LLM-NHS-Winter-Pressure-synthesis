@@ -1,0 +1,63 @@
+Here you have the output from multiple LLM’s  
+
+While remaining completely impartial, compare the healthcare improvement priorities identified by persona: 
+
+Tasks: 
+
+1. Identify areas of strong agreement across models. 
+
+2. Identify priorities emphasized by one model, but not others. 
+
+4. Distinguish: 
+
+ -Priorities more operationally focused, 
+
+ -Priorities more strategic/system-level, 
+
+-Priorities are more policy-driven. 
+
+ 
+
+5. Identify which priorities appear robust across models and therefore are strongest candidates to improve operations in the NHS during the winter seasons.  
+
+ 
+
+6. Summarize tensions among models, such as: 
+
+- frontline practicality vs policy ambition 
+
+- feasibility vs equity 
+
+- near-term measurability vs long-term transformation 
+
+- cost containment vs person-centeredness 
+
+- environmental sustainability vs operational constraints 
+
+ 
+
+7. Recommend a final balanced list of priorities that integrates all five perspectives. 
+
+  
+
+8. Note all discrepancies regarding contradicting evidence between models. If there is contradicting evidence, detail the references the models cited  
+
+ 
+
+ 
+
+ 
+
+Output format: 
+
+A. Areas of convergence 
+
+B. Areas of divergence 
+
+C. Perspective-specific blind spots 
+
+D. Integrated final priority shortlist 
+
+E. List of Discrepancies  
+
+F. Reference list

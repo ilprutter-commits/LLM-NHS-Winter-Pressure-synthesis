@@ -1,0 +1,36 @@
+
+-Compare the healthcare improvement priorities identified by the following personas:
+1.	British_Public
+2.	Patient/Caregiver
+3.	General Practitioner
+
+
+-	Tasks:
+1. Identify areas of strong agreement across personas.
+2. Identify priorities emphasized by one persona but not others.
+3. Explain how stakeholder perspective changes the ranking of priorities.
+4. Distinguish:
+- Priorities are likely to be universally selected,
+ -Priorities more operationally focused,
+ -Priorities more strategic/system-level,
+-Priorities are more policy-driven.
+
+-	5. Identify which priorities appear robust across perspectives and therefore are strongest candidates for an internationally relevant healthcare improvement agenda.
+
+-	6. Summarize tensions among perspectives, such as:
+- frontline practicality vs policy ambition
+- feasibility vs equity
+- near-term measurability vs long-term transformation
+- cost containment vs person-centeredness
+- environmental sustainability vs operational constraints
+
+-	7. Recommend a final balanced list of priorities that integrates all five perspectives.
+
+
+
+-	Output format:
+A. Areas of convergence
+B. Areas of divergence
+C. Perspective-specific blind spots
+D. Integrated final priority shortlist
+E. Implications for study interpretation

@@ -1,0 +1,49 @@
+I have an output made from the consolidated reports of multiple LLM models who were tasked with identifying actionable solutions.  
+
+ 
+
+Present all consolidated findings using the following structure. As though you are an unbiased outsider  
+
+ 
+
+Priority title: 
+
+Problem definition: 
+
+How this is relevant to the NHS. 
+
+What personas this is likely to affect most. 
+
+ 
+
+Why these interventions matter:  
+
+Magnitude of problem facing the NHS during the winter  
+
+Strength of evidence underpinning the proposed intervention 
+
+ Cost-effectiveness considerations 
+
+ Alignment with NHS Plan and Life Sciences Sector Strategy Likely impacts within the short- (1-3 years), medium- (3-5 years) and longer-term (5-10 years) 
+
+Likely impact on reducing health inequalities 
+
+ 
+
+Overall ranking:  
+
+Confidence level:  
+
+Type of evidence source:  
+
+Suggested evidence-based interventions:  
+
+Implementation level:  
+
+Potential barriers:  
+
+Potential unintended consequences:  
+
+Suggested indicators:  
+
+ 
