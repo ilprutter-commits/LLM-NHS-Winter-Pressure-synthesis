@@ -16,7 +16,9 @@ Tasks: 
 
 3. Identify:  
 
-- areas of broad agreement across models,  
+- areas of broad agreement across models, 
+
+- the feesibility statements and make them a staple part of the final report 
 
 - priorities consistently ranked highly,  
 
