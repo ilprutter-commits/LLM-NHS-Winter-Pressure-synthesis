@@ -1,0 +1,729 @@
+# Provisional cross-model synthesis: NHS winter-pressure improvement priorities
+
+## Scope and important limitation
+
+Only **three model outputs** are present in the material supplied here: OpenAI/GPT, Anthropic/Claude and Google/Gemini. Each output appears to synthesise seven stakeholder personas, but those are not equivalent to five independent LLM models. Because the study protocol states that all five models must be considered, the synthesis below is **provisional** and should not be treated as the final cross-model analysis until the remaining two model outputs are supplied.
+
+The three outputs are also not systematic reviews. They contain a mixture of peer-reviewed evidence, NHS policy documents, service evaluations and apparently unsupported or possibly fabricated citations. The evidence judgments below therefore rely primarily on established systematic reviews, trials, NICE guidance and NHS policy documents that can be identified with reasonable confidence. Bibliographic details should be checked against PubMed, the Cochrane Library, NICE and NHS England before manuscript submission.
+
+---
+
+# A. Consolidated priority map
+
+## A1. Terminology normalisation
+
+Several concepts were repeatedly presented as if interchangeable. They should remain analytically distinct.
+
+| Terms used across outputs | Normalised concept | Distinction |
+|---|---|---|
+| Hospital overcrowding, corridor care, ambulance handover delays | **Front-door and exit-block pressure** | System problems, not interventions |
+| SDEC, ambulatory care, front-door streaming | **Same-day emergency care for defined clinical groups** | Hospital-based admission avoidance |
+| Hospital at home, virtual wards, remote monitoring | **Acute treatment at home or remotely monitored care** | “Virtual ward” is an umbrella label; models vary substantially |
+| Urgent community response, two-hour response, frailty-at-home | **Rapid community assessment and treatment** | Intended to prevent conveyance or admission |
+| D2A, home first, delayed transfers of care, bed blocking | **Delayed discharge and insufficient post-acute capacity** | System problem; D2A is one intervention |
+| Frailty screening, CFS, eFI, CGA | **Frailty identification linked to comprehensive assessment** | Screening alone is not an intervention |
+| Flu, COVID-19, RSV and pneumococcal vaccination | **Seasonal respiratory vaccination and equitable uptake** | Vaccine-specific effectiveness should not be conflated |
+| Digital triage, NHS 111, AI triage, online consultation | **Urgent-care navigation and digital decision support** | Routing is not treatment and may increase contacts |
+| Pharmacy First, minor-ailment schemes, pharmacist prescribing | **Community pharmacy assessment and treatment for defined low-risk conditions** | Does not replace continuity-based primary care |
+| Anticipatory care, risk stratification, case management | **Risk-stratified anticipatory care** | Risk prediction only helps if linked to an effective response |
+| Care-home integration, named clinical lead, EHCH | **Enhanced clinical support for care homes** | Includes assessment, prescribing, escalation and advance care planning |
+| Social prescribing, community assets, link workers | **Non-clinical community support** | Evidence for wellbeing differs from evidence for admission reduction |
+| Warm-home prescriptions, fuel-poverty interventions | **Housing and cold-home interventions** | Upstream equity intervention; NHS winter effect evidence remains limited |
+| AI scribes, predictive analytics, dynamic rostering | **Digital workforce and administrative technologies** | Enabling interventions, not primary clinical priorities |
+
+## A2. Consolidated map
+
+| Priority domain | Concrete problem | Candidate intervention components | Main implementation level | Evidence status | Feasibility |
+|---|---|---|---|---|---|
+| **1. Seasonal respiratory prevention and exacerbation management** | Influenza, COVID-19, RSV and exacerbations of COPD/asthma increase admissions, consultations and staff absence | Risk-stratified vaccination and recall; outreach through pharmacies, care homes and community organisations; written COPD/asthma action plans; inhaler-technique review; smoking cessation; pulmonary rehabilitation; rapid review of deterioration | Clinical, organisational, policy | **Strong** for vaccination, smoking cessation, pulmonary rehabilitation and selected self-management components; **moderate** for reducing total winter pressure as a package | High for vaccination, action plans and inhaler review; medium for pulmonary-rehabilitation capacity |
+| **2. Safe same-day emergency care** | Patients requiring urgent assessment are admitted because senior review, diagnostics or ambulatory treatment are unavailable | Senior-led SDEC; condition-specific pathways; rapid diagnostics; ambulatory treatment; explicit inclusion/exclusion criteria; follow-up and safety-netting | Clinical, team, organisational | **Moderate overall; stronger for selected conditions** such as low-risk pulmonary embolism and other defined pathways | Medium to high where space, diagnostics and senior staffing already exist |
+| **3. Rapid community response and hospital-at-home** | Suitable patients are conveyed or admitted because rapid home assessment, prescribing, therapy or escalation are unavailable | Urgent community response; hospital-at-home; acute frailty-at-home; community diagnostics and prescribing; 24-hour escalation | Organisational, system, policy | **Moderate for selected hospital-at-home models; mixed for generic virtual wards and UCR** | Medium; workforce, diagnostics, transport and social-care capacity are binding constraints |
+| **4. Safe discharge and post-acute capacity** | Patients remain in hospital because home care, reablement, equipment, medicines, transport or social-care assessment are delayed | Discharge planning at admission; expected discharge date; daily multidisciplinary blocker review; criteria-led discharge; D2A/home-first; intermediate care and reablement; targeted seven-day discharge-enabling services | Team, organisational, system, policy | **Moderate**; stronger for structured discharge planning and selected early-supported-discharge models than for general D2A claims | Medium; highly dependent on social-care and community capacity |
+| **5. Frailty, falls, delirium and functional decline** | Hospitalisation may cause delirium, immobility, falls, malnutrition, loss of independence and institutionalisation | CGA; front-door frailty teams; early mobilisation; hydration, nutrition and sensory support; falls prevention; medication review; delirium-prevention bundles; personalised escalation plans | Clinical, team, organisational | **Strong for CGA; moderate-to-strong for delirium prevention and selected falls interventions** | Medium; requires geriatric, nursing and therapy capacity |
+| **6. Continuity, coordination and transition safety** | Repeated histories, conflicting advice, lost referrals, duplicated tests, medication discrepancies and untracked results | Protected continuity for high-risk patients; clinically led navigation; direct referral to SDEC/community diagnostics; closed-loop referral; structured handover; ownership of pending results; shared minimum urgent-care dataset | Clinical, team, organisational, system | **Moderate for communication and continuity; limited for direct admission reduction** | High for structured referral, handover and result-ownership processes; medium for interoperable records |
+| **7. Medicines safety, antimicrobial and diagnostic stewardship** | Medication discrepancies, polypharmacy, inappropriate antibiotics and low-value testing cause harm, resistance, cost and emissions | Pharmacist-led reconciliation; targeted deprescribing; antimicrobial audit and feedback; delayed prescribing where appropriate; selective CRP point-of-care testing; diagnostic stewardship | Clinical, team, organisational | **Strong for antimicrobial prescribing improvement; moderate-to-strong for reducing discrepancies; mixed for admission reduction** | High for audit-feedback, reconciliation and prescribing interventions |
+| **8. Workforce safety and capacity** | Sickness, fatigue, violence, burnout, vacancies and missed breaks reduce effective capacity and may compromise safety | Safe staffing escalation; workload redesign; protected breaks; fatigue management; occupational health; staff vaccination; violence prevention; psychologically safe escalation | Team, organisational, policy | **Moderate** for organisational wellbeing and staffing interventions; winter-specific causal evidence is limited | High for protected breaks, vaccination and occupational-health access; lower for workforce expansion |
+| **9. Equitable, person-centred access and discharge** | Digital exclusion, poverty, disability, language barriers, homelessness, rurality and carer burden make standard pathways unsafe or inaccessible | Telephone and face-to-face alternatives; interpreters; accessible information; carer assessment; shared decision-making; personalised escalation plans; equity-stratified monitoring | Clinical, organisational, system, policy | **Moderate for access and experience; limited for direct admission reduction** | High for analogue access, interpreting and structured carer involvement; variable for housing interventions |
+| **10. Infection prevention and respiratory transmission control** | Crowded waiting areas and wards increase infection exposure, outbreaks, bed closures and staff absence | Hand hygiene; ventilation; cohorting/isolation; respiratory etiquette; PPE; testing linked to action; outbreak plans for care homes and hospitals | Clinical, organisational, estate, policy | **Strong or moderate for individual IPC components; variable for complete bundles** | High for protocols and surveillance; medium for estate changes |
+| **11. Low-value care and environmental sustainability** | Unnecessary antibiotics, duplicate testing, avoidable travel, inappropriate follow-up and inefficient care generate cost, burden and emissions | Antimicrobial and diagnostic stewardship; reduce unnecessary follow-up; safe local/remote care; inhaler optimisation; whole-pathway cost and carbon assessment | Clinical, organisational, system, policy | **Strong for antimicrobial stewardship; moderate for selected low-value-care interventions; underdeveloped for whole-pathway carbon effects** | Variable; measurement is feasible but service redesign may require investment |
+
+---
+
+# B. Agreement and disagreement across models
+
+## B1. Areas of broad agreement
+
+Across the three supplied model outputs, the following themes recur.
+
+### 1. Winter pressure is a whole-system problem
+
+All three outputs move beyond an ED-only explanation. They identify interacting causes involving:
+
+- respiratory infection and chronic disease exacerbation;
+- primary and community-care access;
+- ambulance handover;
+- emergency and inpatient capacity;
+- delayed discharge;
+- social-care and intermediate-care capacity;
+- workforce absence and fatigue;
+- information and coordination failures.
+
+This is a robust framing. However, “whole-system” should not be used as an umbrella conclusion without specifying the measurable bottlenecks: **front-door decision-making, inpatient length of stay, discharge-enabling capacity, community response and respiratory prevention**.
+
+### 2. Discharge delay and exit block are consistently prioritised
+
+D2A, home-first approaches, intermediate care and health–social-care integration are repeatedly ranked highly. The models differ in language—“bed blocking”, “DTOC”, “criteria-to-reside breaches” and “flow”—but describe the same underlying problem.
+
+The strongest defensible conclusion is not that D2A universally reduces admissions or costs. It is that **early discharge planning and adequate post-acute support are necessary conditions for reducing avoidable bed occupancy without unsafe discharge** (Gonçalves-Bradley et al., 2022; NICE, 2015, 2017).
+
+### 3. SDEC and senior clinical decision-making are repeatedly supported
+
+All outputs identify same-day assessment and treatment as a major mechanism for avoiding unnecessary overnight admission. The evidence should nevertheless be expressed at the level of **defined clinical pathways**, rather than assuming that a generic SDEC label has a uniform effect.
+
+### 4. Frailty and functional preservation are important
+
+The models consistently highlight CGA, falls, delirium, early mobilisation, medication review and care-home pathways. This is one of the most clinically important areas because it links safety, effectiveness, person-centredness and efficiency.
+
+CGA has a stronger evidence base than many newer winter initiatives, including evidence of improved likelihood of remaining at home and reduced institutionalisation in appropriate populations (Ellis et al., 2017).
+
+### 5. Home-based care is promising but conditional
+
+Hospital-at-home, virtual wards and urgent community response are frequently included, but the outputs also identify the conditions required for safety:
+
+- careful selection;
+- diagnostics and prescribing;
+- trained staff;
+- rapid escalation;
+- suitable housing;
+- patient and carer agreement;
+- non-digital alternatives.
+
+This conditionality should be retained as a central feasibility statement:
+
+> Home-based acute care is feasible for selected patients when clinical accountability, rapid response, diagnostics, medicines and escalation are available; the intervention cannot be treated as a generic substitute for inpatient capacity.
+
+### 6. Vaccination and respiratory infection prevention are foundational
+
+All three outputs support influenza, COVID-19 and RSV vaccination, together with infection prevention. The evidence is strongest for preventing severe disease, not necessarily for demonstrating a predictable reduction in total NHS winter demand.
+
+### 7. Workforce safety is part of patient safety
+
+All outputs identify sickness, burnout, fatigue and staffing shortages. A consistent implication is that individual resilience training should not substitute for workload reduction, safe staffing, protected breaks, occupational-health support and violence prevention.
+
+### 8. Digital tools should enable, not replace, clinical care
+
+The outputs support shared records, digital navigation, remote monitoring and workflow technologies but recognise:
+
+- digital exclusion;
+- false-positive alerts;
+- automation bias;
+- increased repeat contacts;
+- uncertain effects on admissions;
+- the difference between prediction accuracy and improved patient outcomes.
+
+This is particularly important because the technology-oriented output gives greater prominence to AI, virtual wards, dynamic rostering and ambient documentation than the other outputs.
+
+---
+
+## B2. Priorities consistently ranked highly
+
+Taking account of recurrence and prominence, the most consistently high-ranking domains are:
+
+1. **Seasonal respiratory vaccination and prevention**
+2. **Safe discharge and intermediate/community capacity**
+3. **SDEC and senior front-door decision-making**
+4. **Frailty assessment, CGA and prevention of hospital-related decline**
+5. **Hospital-at-home or urgent community response for selected patients**
+6. **Workforce safety and capacity**
+7. **Medicines optimisation and antimicrobial stewardship**
+8. **Primary/community coordination and continuity**
+
+The order differs because the models optimise different outcomes:
+
+- Public and patient-oriented perspectives emphasise safety, continuity, dignity, equity and carer burden.
+- GP-oriented framing emphasises access, prescribing, diagnostic uncertainty and workload.
+- Acute-care framing emphasises crowding, handover, SDEC, admission decisions and discharge.
+- Commissioner framing emphasises population prevention, affordability, equity and cross-sector capacity.
+- Technology-oriented framing emphasises scalability, information infrastructure, remote monitoring and automation.
+
+---
+
+## B3. Priorities raised by only one or two outputs
+
+| Item | Interpretation | Provisional treatment |
+|---|---|---|
+| **Mental-health crisis alternatives and crisis cafés** | Clinically important but not consistently central to winter pressure across the supplied outputs. Evidence for reducing ED attendance is mainly observational or service-evaluation based. | Include as a secondary pathway, not a top general winter priority unless the study scope includes all urgent-care demand. |
+| **Community Pharmacy First** | Prominent in the Gemini output but less prominent in the other two. It may improve access for defined conditions, but evidence that it reduces overall GP or ED demand is less secure than claims imply. | Retain as a targeted access and antimicrobial-stewardship intervention, not assume net demand reduction. |
+| **Cold-home and fuel-poverty interventions** | Raised particularly from patient, GP and commissioner perspectives. Important for equity, respiratory health and sustainability but difficult to attribute to short-term NHS demand. | Retain as an overlooked upstream priority with an underdeveloped winter-specific evidence base. |
+| **Unpaid carer respite and navigation** | Highlighted mainly by the patient/carer framing. It is highly relevant to person-centredness and prevention of crisis breakdown, but direct admission-reduction evidence is limited. | Retain as a safeguarding and equity component of home-based care and discharge, rather than a stand-alone top priority. |
+| **Protected elective surgical hubs and community diagnostic centres** | Relevant to elective recovery and diagnostic backlogs, but less directly related to acute winter pressure. | Include only if the manuscript addresses winter disruption across elective as well as urgent care. |
+| **AI scribes, dynamic rostering and AI radiology prioritisation** | Concentrated in the technology-oriented output. Potentially useful for administrative burden, but evidence for winter-pressure effects is limited. | Treat as enabling technologies requiring prospective evaluation, not core priorities. |
+| **High-intensity-user case management** | Operationally relevant to ED workload but not prominent across all outputs. | Consider as a targeted local intervention where frequent attenders account for substantial activity. |
+| **Heart-failure outpatient diuretic services** | A plausible condition-specific ambulatory pathway, but not a general winter priority. | Include as an example within condition-specific SDEC or community pathways. |
+
+---
+
+## B4. Differences in framing, scope and abstraction
+
+### Model style
+
+The outputs differ markedly in granularity.
+
+- The OpenAI output is comparatively conservative and repeatedly separates problems from interventions.
+- The Claude output produces a broad programme architecture with many named priorities and detailed intervention specifications.
+- The Gemini output uses numerical scores, precise resource estimates and highly specific effect sizes.
+
+The latter features create an appearance of precision that is not necessarily supported by the cited evidence.
+
+### Source emphasis
+
+The outputs appear to draw on different evidence emphases:
+
+- **Clinical and geriatric sources** produce emphasis on CGA, delirium, falls and respiratory disease.
+- **NHS operational documents** produce emphasis on SDEC, D2A, UCR and virtual wards.
+- **Technology and innovation framing** produces emphasis on AI, remote monitoring, predictive analytics and workflow automation.
+- **Health-equity framing** produces emphasis on cold homes, digital exclusion, carers and community outreach.
+
+### Overgeneralisation
+
+The following claims should not be retained without substantial qualification:
+
+- virtual wards reduce admissions or costs in general;
+- NHS 111 or digital triage reduces total demand;
+- social prescribing reduces emergency admissions;
+- shared records reduce mortality;
+- seven-day services universally improve outcomes;
+- hospital-at-home is universally cheaper and safer;
+- community pharmacy necessarily substitutes for general practice;
+- proactive risk stratification reduces admissions;
+- AI tools create clinical capacity without adding verification workload;
+- vaccination campaigns alone prevent system-wide winter collapse.
+
+A more defensible formulation is:
+
+> The intervention may improve a specified process or outcome in a defined population, but effects are heterogeneous and depend on selection, implementation fidelity, workforce capacity and availability of alternatives.
+
+### Likely hallucination or unsupported inference
+
+The Gemini output contains numerous claims requiring particular caution, including:
+
+- highly specific reductions such as “35–45%” of referrals avoided;
+- “20–30%” reductions in emergency admissions from warm-home prescriptions;
+- “>90%” monitoring compliance from cellular hubs;
+- exact costs per site;
+- “up to 2 hours” of clinical time returned daily by ambient AI;
+- reductions in agency spend and staff turnover from algorithmic rostering;
+- claims that virtual wards achieve strong clinical non-inferiority across acute conditions.
+
+Several cited articles in the Gemini reference list have generic titles, unusual bibliographic details or could not be confidently recognised as established sources. They should be treated as **unverified**, not used in a manuscript until independently confirmed.
+
+---
+
+# C. Final integrated shortlist
+
+The following shortlist balances cross-model agreement, winter relevance, evidence strength, feasibility, equity, person-centredness and unintended consequences.
+
+## Tier 1: Recommended core priorities
+
+### 1. Safe discharge and post-acute capacity
+
+**Problem:** Avoidable inpatient days caused by late discharge planning and insufficient reablement, domiciliary care, equipment, transport, pharmacy and social-care capacity.
+
+**Priority interventions:**
+
+- discharge planning from admission;
+- expected discharge date and functional goals;
+- daily multidisciplinary review of discharge barriers;
+- D2A/home-first pathways;
+- intermediate care and reablement;
+- targeted seven-day pharmacy, therapy, transport and social-care provision;
+- closed-loop communication with community providers.
+
+**Evidence:** Moderate. Stronger for structured discharge planning and selected early-supported-discharge models than for generic D2A.
+
+**Feasibility:** Medium in high-income settings; lower in systems with limited formal domiciliary or intermediate care. In lower-resource settings, feasible components include early discharge planning, family education, medication supply, basic rehabilitation and community health-worker follow-up, but the model should not assume UK-style social-care infrastructure.
+
+**Risks:** Premature discharge, transfer of work to unpaid carers, inequitable access for people in unsuitable housing and readmission if community capacity is inadequate.
+
+**Levels:** Team, organisational, system and policy.
+
+---
+
+### 2. Senior-led SDEC and condition-specific ambulatory care
+
+**Problem:** Overnight admission for patients who require urgent assessment or treatment but not inpatient care.
+
+**Priority interventions:**
+
+- senior decision-maker at the front door;
+- rapid diagnostics;
+- explicit criteria for ambulatory management;
+- same-day treatment;
+- reliable follow-up and safety-netting;
+- direct referral from primary care, ambulance services and urgent-care services where safe.
+
+**Evidence:** Moderate overall; stronger for selected clinical conditions than for generic SDEC.
+
+**Feasibility:** Medium to high where diagnostic and senior clinical capacity exists; more difficult in lower-resource settings without rapid diagnostics.
+
+**Risks:** Inappropriate diversion, delayed recognition of deterioration, consultant workload displacement and exclusion of people without transport, social support or suitable housing.
+
+**Levels:** Clinical, team and organisational.
+
+---
+
+### 3. Frailty-focused acute care and prevention of hospital-related decline
+
+**Problem:** Frail older people experience disproportionate harm from admission, including delirium, falls, immobility, malnutrition and loss of independence.
+
+**Priority interventions:**
+
+- frailty identification linked to assessment;
+- CGA at the ED/acute medical interface;
+- early mobilisation;
+- hydration, nutrition and sensory support;
+- delirium prevention;
+- multifactorial falls prevention;
+- medication review;
+- personalised escalation and care-preference plans.
+
+**Evidence:** Strong for CGA; moderate-to-strong for multicomponent delirium prevention and selected falls interventions (Ellis et al., 2017; Siddiqi et al., 2016; Sherrington et al., 2019).
+
+**Feasibility:** Medium. The main constraint is availability of geriatric, nursing, therapy and social-care staff.
+
+**Risks:** Screening without a response pathway creates administrative burden and false reassurance. Frailty thresholds should not be used to deny appropriate treatment.
+
+**Levels:** Clinical, team and organisational.
+
+---
+
+### 4. Seasonal respiratory prevention and chronic respiratory disease management
+
+**Problem:** Seasonal respiratory infections and exacerbations of COPD/asthma increase admissions, consultations and workforce absence.
+
+**Priority interventions:**
+
+- equitable influenza, COVID-19 and RSV vaccination;
+- active recall and outreach through pharmacies, care homes and community organisations;
+- personalised COPD/asthma action plans;
+- inhaler-technique assessment;
+- smoking cessation;
+- pulmonary rehabilitation;
+- rapid review for deterioration.
+
+**Evidence:** Strong for vaccination, smoking cessation, pulmonary rehabilitation and selected self-management interventions; moderate for the combined effect on winter demand (Lenferink et al., 2017; McCarthy et al., 2015; Puhan et al., 2016; Sanchis et al., 2016).
+
+**Feasibility:** High for vaccination, recall and inhaler review; medium for pulmonary rehabilitation because of workforce and access constraints.
+
+**Risks:** Rescue medication may increase inappropriate antibiotic use unless accompanied by clear criteria and antimicrobial stewardship. Inhaler switching may worsen control if device suitability and technique are not assessed.
+
+**Levels:** Clinical, organisational and policy.
+
+---
+
+### 5. Selective hospital-at-home and urgent community response
+
+**Problem:** Patients are admitted because treatment, diagnostics, prescribing or monitoring are unavailable at home.
+
+**Priority interventions:**
+
+- defined eligibility criteria;
+- urgent community response;
+- hospital-at-home for selected conditions;
+- community prescribing, diagnostics and therapy;
+- patient and carer agreement;
+- 24-hour escalation and hospital transfer.
+
+**Evidence:** Moderate for selected hospital-at-home models; mixed for generic virtual wards and remote monitoring. Evidence is condition-specific and should not be extrapolated to all acute illness (Shepperd et al., 2016; Koehler et al., 2018; Pinnock et al., 2013).
+
+**Feasibility:** Medium in high-income settings; lower in settings without community nursing, diagnostics, transport or reliable electricity/connectivity. Low-technology telephone models may be more feasible than sensor-heavy models.
+
+**Risks:** Digital exclusion, alert fatigue, carer burden, staff travel and unsafe substitution for inpatient care.
+
+**Levels:** Organisational, system and policy.
+
+---
+
+## Tier 2: Cross-cutting priorities
+
+### 6. Medication safety, antimicrobial stewardship and diagnostic stewardship
+
+**Problem:** Medication discrepancies, inappropriate prescribing and low-value diagnostic testing generate avoidable harm, resistance, cost and environmental burden.
+
+**Priority interventions:**
+
+- medication reconciliation at admission and discharge;
+- targeted pharmacist-led medication reviews;
+- deprescribing for high-risk medicines;
+- antimicrobial audit and feedback;
+- selective CRP point-of-care testing in primary care;
+- delayed prescribing for appropriate low-risk infections;
+- avoiding duplicate tests and unnecessary follow-up.
+
+**Evidence:** Strong for improving antimicrobial prescribing; moderate-to-strong for reducing medication discrepancies; less certain for reducing admissions (Cals et al., 2009; Davey et al., 2017; Mekonnen et al., 2016).
+
+**Feasibility:** High across income settings for audit-feedback, prescribing protocols, reconciliation and basic pharmacist or community-health-worker support.
+
+**Levels:** Clinical, team and organisational.
+
+---
+
+### 7. Continuity, coordination and transition safety
+
+**Problem:** Fragmented urgent-care pathways lead to repeated histories, lost referrals, unreviewed results, duplicated tests and conflicting advice.
+
+**Priority interventions:**
+
+- protected continuity for high-risk patients;
+- named responsibility for referrals and pending results;
+- structured discharge summaries;
+- direct referral to SDEC and community services;
+- minimum urgent-care information set;
+- non-digital access routes;
+- carer involvement in discharge and escalation planning.
+
+**Evidence:** Moderate for process and communication outcomes; underdeveloped for direct winter-demand reduction.
+
+**Feasibility:** High for workflow redesign and standardised communication; medium for interoperable digital infrastructure.
+
+**Overlooked component:** Closed-loop referral and pending-result ownership are relatively low-cost patient-safety interventions that are often obscured by emphasis on beds and new technology.
+
+---
+
+### 8. Staff safety, staffing resilience and workload protection
+
+**Problem:** Illness, fatigue, violence, burnout and vacancies reduce available capacity and may compromise patient safety.
+
+**Priority interventions:**
+
+- safe staffing escalation based on acuity;
+- protected breaks and hydration;
+- workload and administrative redesign;
+- occupational-health access;
+- staff respiratory vaccination;
+- violence prevention;
+- psychologically safe reporting and escalation.
+
+**Evidence:** Moderate for workforce wellbeing and staffing–outcome associations; limited for direct winter-pressure effects (Hall et al., 2016; Panagioti et al., 2017).
+
+**Feasibility:** High for vaccination, protected breaks and occupational-health measures; lower for rapid workforce expansion.
+
+**Risks:** Wellbeing programmes can become symbolic if workload and staffing are not addressed. New services may worsen burnout if they rely on overtime or double-running.
+
+---
+
+### 9. Equity and person-centredness as mandatory design requirements
+
+**Problem:** Digital-first, home-first and ambulatory models may exclude people with poverty, disability, language barriers, homelessness, rural isolation, cognitive impairment or limited carer support.
+
+**Priority interventions:**
+
+- telephone, face-to-face and assisted alternatives to digital access;
+- interpreting and accessible information;
+- equity-stratified uptake and outcome monitoring;
+- carer assessment;
+- shared decision-making;
+- personalised escalation and preferred-place-of-care plans;
+- outreach through trusted community organisations.
+
+**Evidence:** Moderate for access and experience; limited for direct admission reduction.
+
+**Feasibility:** High for analogue access and interpreting; variable for housing and social-care interventions.
+
+---
+
+### 10. Environmental sustainability and low-value-care measurement
+
+**Problem:** Some winter interventions reduce hospital activity while increasing staff travel, home energy use, device procurement, carer workload or duplicated contacts.
+
+**Priority interventions:**
+
+- whole-pathway cost and carbon assessment;
+- antimicrobial and diagnostic stewardship;
+- inhaler optimisation based on clinical suitability;
+- reducing unnecessary travel and follow-up;
+- evaluating remote care using life-cycle carbon methods;
+- reporting workload transferred to primary care, social care and households.
+
+**Evidence:** Strong for antimicrobial stewardship; moderate for selected low-value-care interventions; underdeveloped for the net carbon effects of virtual wards and hospital-at-home.
+
+**Feasibility:** Measurement is feasible across settings, although carbon-accounting infrastructure is less developed in low- and middle-income systems.
+
+---
+
+# D. Consolidated interventions and recommendations
+
+## D1. Minimum specification for admission-avoidance and discharge pathways
+
+Every SDEC, hospital-at-home, urgent community response or D2A pathway should specify:
+
+1. **Eligibility**
+   - clinical stability;
+   - diagnostic confidence or an explicit uncertainty plan;
+   - home, safeguarding and infection-control suitability;
+   - patient and carer agreement;
+   - medicines, equipment and transport availability.
+
+2. **Clinical accountability**
+   - named decision-maker;
+   - named responsible team after transfer or discharge;
+   - named owner for pending results and follow-up.
+
+3. **Response capability**
+   - timely clinical review;
+   - prescribing;
+   - diagnostics;
+   - therapy;
+   - escalation and hospital transfer.
+
+4. **Safety-netting**
+   - expected trajectory;
+   - red-flag symptoms;
+   - contact route;
+   - out-of-hours plan;
+   - accessible, translated or non-digital information.
+
+5. **Balancing measures**
+   - mortality;
+   - serious incidents;
+   - 72-hour reattendance;
+   - seven- and 30-day readmission;
+   - functional status;
+   - patient and carer experience;
+   - staff workload;
+   - equity;
+   - total cost;
+   - carbon and travel burden.
+
+## D2. Feasibility by implementation setting
+
+| Setting | More feasible interventions | Interventions requiring caution |
+|---|---|---|
+| **Low-income and lower-middle-income settings** | Vaccination outreach; community health-worker respiratory education; basic action plans; antimicrobial stewardship; early discharge planning; family-inclusive care; low-technology telephone follow-up; infection prevention | Sensor-heavy virtual wards, formal D2A models dependent on state-funded domiciliary care, consultant-led SDEC requiring advanced diagnostics, AI infrastructure |
+| **Upper-middle-income settings** | Pharmacy and community diagnostic services; targeted home-based care; frailty pathways in regional hospitals; electronic referral systems; pharmacist medication review | Nationwide interoperability, 24/7 UCR, high-cost remote monitoring and large-scale AI deployment |
+| **High-income settings** | SDEC; CGA; hospital-at-home; D2A; virtual wards; integrated records; pulmonary rehabilitation; structured workforce systems | Assuming infrastructure equals effectiveness; scaling virtual wards or AI without comparative evaluation; universal seven-day services without workforce analysis |
+
+## D3. Staged implementation
+
+### Immediate, relatively feasible actions
+
+- vaccination recall and equity outreach;
+- antimicrobial audit-feedback;
+- medication reconciliation;
+- discharge planning from admission;
+- CGA and delirium-prevention standards;
+- closed-loop referral and pending-result ownership;
+- protected staff breaks and infection-prevention measures;
+- analogue alternatives to digital access.
+
+### Intermediate actions
+
+- condition-specific SDEC;
+- frailty front-door teams;
+- targeted seven-day discharge-enabling services;
+- D2A with reablement capacity;
+- care-home rapid clinical review;
+- community diagnostics;
+- pulmonary rehabilitation referral and capacity expansion.
+
+### Selective, higher-resource actions
+
+- hospital-at-home;
+- urgent community response;
+- acute frailty-at-home;
+- virtual wards with active clinical treatment;
+- shared care records;
+- predictive analytics and AI workflow tools.
+
+---
+
+# E. Uncertain, weakly supported or contested items
+
+## E1. Virtual wards and remote monitoring
+
+**Evidence status: mixed and highly model-dependent.**
+
+“Virtual ward” can mean telephone follow-up, remote observation, active hospital-at-home treatment or sensor-based monitoring. These should not be pooled as a single intervention. Heart-failure telemonitoring has supportive trial evidence in selected models (Koehler et al., 2018), whereas COPD telemonitoring has produced negative or inconsistent results, including the TELESCOT-COPD trial (Pinnock et al., 2013).
+
+**Required manuscript wording:**
+
+> Virtual wards may support admission avoidance or earlier discharge for selected patients, but evidence of system-wide reductions in admissions, mortality and costs remains heterogeneous and dependent on patient selection, staffing and escalation capability.
+
+## E2. Digital triage and NHS 111
+
+**Evidence status: mixed.**
+
+Digital navigation may improve access for some users but can increase repeat contacts, defensive referral and workload. It may disadvantage people with limited English, disability, cognitive impairment, poor connectivity or low digital confidence.
+
+Digital triage should therefore be specified as **blended clinical navigation with guaranteed non-digital alternatives**, not as digital access alone.
+
+## E3. AI, predictive analytics and ambient documentation
+
+**Evidence status: emerging or underdeveloped for winter-pressure outcomes.**
+
+The outputs contain unsupported precision about time saved, reduced agency expenditure and reduced admissions. Predictive accuracy is not evidence of clinical benefit. Evaluation should include:
+
+- calibration across deprivation, ethnicity, age and disability;
+- false-negative safety events;
+- false-positive workload;
+- clinician override;
+- automation bias;
+- documentation errors;
+- staff experience;
+- patient outcomes and cost.
+
+AI should be treated as an enabling technology requiring prospective evaluation, not as a top-tier winter intervention.
+
+## E4. Generic anticipatory care and risk stratification
+
+**Evidence status: moderate and heterogeneous.**
+
+Risk prediction tools can identify high-risk groups, but the downstream intervention is the causal component. Case management and anticipatory-care programmes have not consistently reduced emergency admissions. A risk score without timely clinical, social or community support may simply increase identification without improving outcomes.
+
+## E5. D2A and home-first
+
+**Evidence status: moderate and context-dependent.**
+
+D2A may reduce hospital length of stay and improve functional assessment in the person’s usual environment. However, it is unsafe where home care, equipment, therapy or safeguarding support is unavailable. Evidence from well-resourced pilot sites should not be assumed to generalise to areas with weak social-care markets.
+
+## E6. Community Pharmacy First
+
+**Evidence status: moderate for access and defined-condition treatment; less certain for system-wide demand reduction.**
+
+Pharmacy-based care is feasible and potentially valuable for specified low-risk conditions. However, it may fragment continuity and increase antibiotic use if prescribing protocols and referral thresholds are weak. The appropriate outcome is not simply the number of consultations diverted, but safety, reconsultation, antibiotic prescribing, equity and patient experience.
+
+## E7. Warm-home prescriptions and housing interventions
+
+**Evidence status: important but underdeveloped for NHS winter outcomes.**
+
+The association between cold homes, respiratory disease and health inequalities is well established, and NICE recommends action on cold homes (NICE, 2015). However, precise claims about reductions in emergency admissions or consultations should not be made without verified controlled evaluations.
+
+This is an overlooked priority for equity and prevention, but should be described as **promising and upstream**, not as a proven admission-avoidance intervention.
+
+## E8. Mental-health crisis alternatives
+
+**Evidence status: clinically relevant but not central to the consensus acute winter agenda.**
+
+Liaison psychiatry and crisis-resolution/home-treatment services may improve timeliness and reduce psychiatric admission for selected populations. Crisis cafés, safe havens and peer-led services have promising acceptability evidence but limited controlled evidence for reducing ED demand. They should be included if the study covers all urgent-care demand, but not assumed to be a general solution to winter bed pressure.
+
+## E9. Environmental sustainability
+
+**Evidence status: underdeveloped at whole-pathway level.**
+
+Hospital-at-home and remote care may reduce hospital energy use and patient travel, but may increase staff travel, household energy consumption, device manufacture and carer burden. Carbon should be measured alongside safety, equity and total workload rather than inferred from reduced bed occupancy.
+
+---
+
+# F. Methodological note on cross-model variation
+
+## F1. The outputs are not independent evidence reviews
+
+The three LLM outputs may share training data, citations and common NHS policy language. Agreement between them should therefore be interpreted as **convergent model output**, not replication of independent research findings.
+
+The final two model outputs are still required before making claims about agreement across all five models.
+
+## F2. Different units were being ranked
+
+The outputs rank entities at different levels:
+
+- **Problems:** exit block, crowding, staff shortage;
+- **Clinical interventions:** vaccination, CGA, antimicrobial stewardship;
+- **Service models:** SDEC, D2A, hospital-at-home;
+- **Enablers:** shared records, dashboards, AI;
+- **Values:** equity, person-centredness and sustainability.
+
+These are not directly comparable. The synthesis therefore ranks **problem–intervention domains**, with specific components beneath each.
+
+## F3. Attribution of differences
+
+| Difference type | Examples |
+|---|---|
+| **Model style** | One output uses cautious evidence grading; another creates a broad 18-priority taxonomy; another assigns precise numerical scores and resource estimates |
+| **Source emphasis** | NHS operational documents increase emphasis on SDEC, UCR, virtual wards and D2A; clinical reviews increase emphasis on CGA, respiratory care and stewardship |
+| **Stakeholder framing** | Patient-oriented material emphasises dignity, carers and digital exclusion; acute-care material emphasises crowding and flow; technology-oriented material emphasises automation and interoperability |
+| **Overgeneralisation** | Treating all virtual wards, social prescribing programmes or digital triage systems as equivalent |
+| **Likely unsupported inference** | Exact cost estimates, admission reductions, referral diversion percentages and claims of universal cost savings not traceable to verified comparative studies |
+
+## F4. Recommended evaluation approach
+
+For the final improvement programme, use:
+
+- interrupted time-series or controlled before-and-after designs for system interventions;
+- stepped-wedge or cluster-randomised designs where pathway rollout permits;
+- linked routine data for admissions, reattendance, mortality, length of stay and equity;
+- process evaluation to assess fidelity and workload transfer;
+- realist evaluation for complex integrated-care models;
+- NHS-and-social-care cost-effectiveness analysis;
+- life-cycle carbon assessment for environmental claims.
+
+---
+
+# Selected references
+
+The following references are suitable as a core, verified starting point. They should be updated and checked against the relevant current versions before submission.
+
+Cals, J. W. L., Butler, C. C., Hopstaken, R. M., Hood, K. and Dinant, G. J. (2009). Effect of point of care testing for C reactive protein and training in communication skills on antibiotic use in lower respiratory tract infections: cluster randomised trial. *BMJ*, 338, b1374.
+
+Clegg, A., Bates, C., Young, J., Ryan, R., Nichols, L., Teale, E. A. et al. (2016). Development and validation of an electronic frailty index using routine primary care electronic health record data. *Age and Ageing*, 45(3), 353–360.
+
+Davey, P., Marwick, C. A., Scott, C. L., Charani, E., McNeil, K., Brown, E. et al. (2017). Interventions to improve antibiotic prescribing practices for hospital inpatients. *Cochrane Database of Systematic Reviews*, 2, CD003543.
+
+Detering, K. M., Hancock, A. D., Reade, M. C. and Silvester, W. (2010). The impact of advance care planning on end-of-life care in elderly patients: randomised controlled trial. *BMJ*, 340, c1345.
+
+Ellis, G., Gardner, M., Tsiachristas, A., Langhorne, P., Burke, O., Harwood, R. H. et al. (2017). Comprehensive geriatric assessment for older adults admitted to hospital. *Cochrane Database of Systematic Reviews*, 9, CD006211.
+
+Gonçalves-Bradley, D. C., Lannin, N. A., Clemson, L., Cameron, I. D. and Shepperd, S. (2022). Discharge planning from hospital. *Cochrane Database of Systematic Reviews*, 2, CD000313.
+
+Hall, L. H., Johnson, J., Watt, I., Tsipa, A. and O’Connor, D. B. (2016). Healthcare staff wellbeing, burnout, and patient safety: a systematic review. *PLoS ONE*, 11(7), e0159015.
+
+Koehler, F., Koehler, K., Deckwart, O., Prescher, S., Wegscheider, K., Kirwan, B. A. et al. (2018). Efficacy of telemedical interventional management in patients with heart failure: the TIM-HF2 randomised, controlled, parallel-group, unmasked trial. *The Lancet*, 392(10152), 1047–1057.
+
+Lenferink, A., Brusse-Keizer, M., van der Valk, P. D. L. P. M., Frith, P. A., Zwerink, M., Monninkhof, E. M. et al. (2017). Self-management interventions including action plans for exacerbations versus usual care in patients with chronic obstructive pulmonary disease. *Cochrane Database of Systematic Reviews*, 8, CD011682.
+
+McCarthy, B., Casey, D., Devane, D., Murphy, K., Murphy, E. and Lacasse, Y. (2015). Pulmonary rehabilitation for chronic obstructive pulmonary disease. *Cochrane Database of Systematic Reviews*, 2, CD003793.
+
+Mekonnen, A. B., McLachlan, A. J. and Brien, J.-A. E. (2016). Effectiveness of pharmacist-led medication reconciliation programmes on clinical outcomes at hospital transitions: a systematic review and meta-analysis. *BMJ Open*, 6, e010003.
+
+Morley, C., Unwin, M., Peterson, G. M., Stankovich, J. and Kinsman, L. (2018). Emergency department crowding: a systematic review of causes, consequences and solutions. *PLoS ONE*, 13(8), e0203316.
+
+Panagioti, M., Panagopoulou, E., Bower, P. et al. (2017). Controlled interventions to reduce burnout in physicians: a systematic review and meta-analysis. *JAMA Internal Medicine*, 177(2), 195–205.
+
+Pinnock, H., Hanley, J., McCloughan, L., Todd, A., Krishan, A., Lewis, S. et al. (2013). Effectiveness of telemonitoring integrated into existing clinical services on hospital admission for exacerbation of chronic obstructive pulmonary disease: a researcher-blind, multicentre, randomised controlled trial. *BMJ*, 347, f6070.
+
+Puhan, M. A., Gimeno-Santos, E., Cates, C. J. and Troosters, T. (2016). Pulmonary rehabilitation following exacerbations of chronic obstructive pulmonary disease. *Cochrane Database of Systematic Reviews*, 12, CD005305.
+
+Sanchis, J., Gich, I., Pedersen, S. and the ADMIT Team. (2016). Systematic review of errors in inhaler use. *Chest*, 150(2), 394–406.
+
+Sherrington, C., Fairhall, N. J., Wallbank, G. K., Tiedemann, A., Michaleff, Z. A., Howard, K. et al. (2019). Exercise for preventing falls in older people living in the community. *Cochrane Database of Systematic Reviews*, 1, CD012424.
+
+Shepperd, S., Iliffe, S., Doll, H. A., Clarke, M. J., Kalra, L., Wilson, A. D. and Gonçalves-Bradley, D. C. (2016). Admission avoidance hospital at home. *Cochrane Database of Systematic Reviews*, 9, CD007491.
+
+Siddiqi, N., Harrison, J. K., Clegg, A., Teodorczuk, A., Mohan, P. S., Taylor, L. et al. (2016). Interventions for preventing delirium in hospitalised non-ICU patients. *Cochrane Database of Systematic Reviews*, 3, CD005563.
+
+### Policy and guidance
+
+National Institute for Health and Care Excellence. (2015). *Excess winter deaths and illness associated with cold homes* (NG6). London: NICE.
+
+National Institute for Health and Care Excellence. (2015). *Medicines optimisation: the safe and effective use of medicines to enable the best possible outcomes* (NG5). London: NICE.
+
+National Institute for Health and Care Excellence. (2015). *Transition between inpatient hospital settings and community or care home settings for adults with social care needs* (NG27). London: NICE.
+
+National Institute for Health and Care Excellence. (2017). *Intermediate care including reablement* (NG74). London: NICE.
+
+National Institute for Health and Care Excellence. (2019, updated as applicable). *Chronic obstructive pulmonary disease in over 16s: diagnosis and management* (NG115). London: NICE.
+
+National Institute for Health and Care Excellence. (2010, updated as applicable). *Delirium: prevention, diagnosis and management* (CG103). London: NICE.
+
+NHS England. (2023). *Delivery plan for recovering urgent and emergency care services*. London: NHS England.
+
+NHS England. (2023). *Delivery plan for recovering access to primary care*. London: NHS England.
+
+NHS England. (2022 and subsequent updates). *Virtual wards operational framework*. London: NHS England.
+
+NHS England. (2022 and subsequent updates). *Urgent Community Response operational guidance*. London: NHS England.
+
+NHS England. (2020). *Delivering a net zero National Health Service*. London: NHS England.
+
+UK Health Security Agency and NHS England. Current annual editions. *Seasonal influenza and COVID-19 vaccination programme guidance*. London: UKHSA/NHS England.
+
+**Recommendation before finalising the manuscript:** provide the two missing model outputs, then repeat the agreement counts and revise the “broad agreement” and “one- or two-model” classifications across all five models.

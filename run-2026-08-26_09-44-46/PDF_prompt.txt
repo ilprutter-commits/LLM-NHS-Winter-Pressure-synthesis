@@ -1,0 +1,5 @@
+Take these text files and output them to a pdf. 
+
+Note, do not mix any information. There should be a bias assessment section in this report. In the bias assessment there is similar output and models used as the real run however they are not to be mixed. 
+
+Also detail any and all inaccuracies with wording. there is to be no made up words!

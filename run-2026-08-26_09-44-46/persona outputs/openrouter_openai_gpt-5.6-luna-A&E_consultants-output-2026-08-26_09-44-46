@@ -1,0 +1,561 @@
+# A. Priority-by-priority evidence-based intervention list
+
+## Scope and interpretation
+
+This is a clinically informed, NHS winter-pressure prioritisation from an emergency/acute medicine perspective. It is not a formal systematic review, and rankings may differ for primary care, social care, ambulance services, patients, staff or finance leaders.
+
+Evidence was prioritised in the following order:
+
+1. Recent peer-reviewed evidence, principally 2016–2025.
+2. UK governmental or NHS evidence where relevant.
+3. Other reputable scientific or professional sources, clearly identified as such.
+
+“Strong evidence” means consistent evidence from systematic reviews, randomised trials, large observational studies or robust evaluations. “Promising” means plausible and supported by some evidence, but with heterogeneity or uncertainty. “Case-example evidence” means mainly local evaluations, before–after studies or service descriptions.
+
+Resource categories:
+
+- **Low:** uses existing staff and infrastructure with limited training or IT investment.
+- **Medium:** requires recurrent staffing, pathway redesign, data support or modest capital.
+- **High:** requires substantial new workforce, estates, digital infrastructure or cross-sector capacity.
+
+The evidence base is stronger for individual interventions than for complete “winter-pressure packages”. Implementation should therefore be evaluated locally.
+
+---
+
+## Priority 1. Prevent avoidable respiratory illness and winter exacerbations
+
+**Rationale:** Respiratory infection and exacerbation of COPD, asthma, heart failure and other chronic disease contribute substantially to winter emergency attendances, admissions and bed occupancy. Prevention is particularly important for older people, people with multimorbidity, residents of care homes and socioeconomically deprived communities.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **1.1 Improve seasonal influenza, COVID-19 and pneumococcal vaccination uptake in clinically vulnerable groups** | Policy/organisational/clinical. Reduces infection, severe disease and pressure on urgent care. Use GP registers, pharmacy vaccination, care-home clinics, mobile/community outreach and reminder-recall. | Low–medium. Requires vaccine supply, call–recall systems, outreach staff and reliable denominator data. | **Strong for prevention of severe respiratory disease; variable for preventing all admissions.** Implement within 1–3 years. | Vaccine hesitancy, access barriers, incomplete ethnicity/disability data and workforce capacity. | Uptake by risk group, deprivation and ethnicity; respiratory admissions; vaccine effectiveness; missed-opportunity rate. |
+| **1.2 Structured COPD/asthma self-management and early-exacerbation plans** | Clinical/organisational. Written action plans, inhaler technique review, rescue-treatment advice and rapid review can reduce delayed presentation and inappropriate ED attendance. | Low–medium. Requires trained clinicians, spirometry/diagnostic access and review templates. | **Moderate; stronger for self-management education than for every digital format.** Within 1–3 years. | Inaccurate diagnosis, low health literacy, poor continuity and overuse of rescue medication. | Exacerbation admissions, rescue steroid courses, inhaler technique, action-plan coverage, patient-reported confidence. |
+| **1.3 Pulmonary rehabilitation and secondary prevention after COPD admission** | Organisational/clinical. Improves exercise tolerance and may reduce readmission and functional decline. | Medium. Requires physiotherapy, respiratory staff, transport or home-based options. | **Moderate-to-strong for outcomes after COPD exacerbation, although uptake is often poor.** Within 1–3 years. | Limited rehabilitation capacity, transport, frailty and inequitable referral. | Referral and completion rates; readmission; exercise capacity; quality of life; uptake by deprivation. |
+| **1.4 Proactive high-risk respiratory registers with anticipatory review before winter** | Organisational. Identifies people with recurrent admissions, severe COPD, heart failure or frailty for medication review, vaccination, care planning and rapid-access advice. | Medium. Requires risk stratification, named clinical responsibility and information sharing. | **Promising; evidence for integrated high-risk models is mixed and context-dependent.** Within 3 years. | Risk-prediction inaccuracies, workload displacement and poor cross-organisational data. | High-risk patients reviewed; admissions per 1,000; emergency attendances; equity of coverage. |
+
+**Classification:** 1.1 and 1.3 are relatively strong. 1.4 is promising but should not be presented as proven to reduce admissions in all settings.
+
+---
+
+## Priority 2. Expand same-day emergency and ambulatory emergency care
+
+**Rationale:** A proportion of patients attending ED require urgent assessment but not an overnight bed. Same-day emergency care (SDEC), ambulatory pathways and rapid specialty review can reduce admissions while preserving access to hospital expertise.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **2.1 Establish specialty-specific SDEC pathways** for medical, surgical, frailty, cardiology, respiratory and thromboembolic presentations | Organisational/clinical. Rapid diagnostics, senior decision-making and treatment avoid unnecessary admission. | Medium–high. Requires senior clinicians, diagnostics, therapy support and operating hours aligned with demand. | **Moderate; observational and service evaluations generally support reduced admission, but selection bias is common.** Within 1–3 years. | Diagnostics, staffing, unsuitable referrals, lack of evening/weekend capacity. | Proportion eligible; conversion to admission; 7- and 30-day reattendance; safety incidents; patient experience. |
+| **2.2 Use explicit inclusion/exclusion criteria and senior clinical decision-maker review** | Clinical/organisational. Standardises risk selection and reduces unsafe discharge or inappropriate admission. | Low. Requires pathway protocols, training and audit. | **Strongly supported by general evidence on standardisation and senior review; direct SDEC outcome evidence is moderate.** Within 1 year. | Protocol rigidity and variation in clinical risk. | Time to decision; protocol adherence; adverse events; unplanned admission within 48 hours. |
+| **2.3 Create rapid diagnostic access for high-volume pathways**—for example ambulatory CT, ultrasound, echocardiography and blood testing | Organisational. Reduces diagnostic delay and overnight observation. | Medium–high, depending on existing capacity. Requires radiology and laboratory scheduling. | **Moderate; evidence is mainly pathway-specific and locally evaluated.** Within 3–5 years. | Capacity competition with planned care, staffing and out-of-hours reporting. | Time to diagnostic result; admission avoidance; turnaround time; diagnostic error or delayed diagnosis. |
+| **2.4 Link SDEC with community follow-up and explicit safety-netting** | Clinical/organisational. Prevents the “discharge without support” problem and identifies deterioration early. | Low–medium. Requires booked follow-up, advice lines and shared documentation. | **Moderate for transitional and discharge interventions; direct SDEC evidence is less certain.** Within 1–3 years. | GP capacity, unclear responsibility and incomplete records. | Follow-up completed; 7-day reattendance; patient understanding; complaints; delayed diagnosis. |
+
+**Classification:** 2.1 is a high-yield intervention, but direct causal evidence is less strong than for some individual clinical interventions. It is highly context-sensitive: SDEC can become unsafe or ineffective without diagnostics, senior decision-making and downstream follow-up.
+
+---
+
+## Priority 3. Implement multidisciplinary frailty assessment and admission avoidance
+
+**Rationale:** Older people with frailty experience disproportionate harm from prolonged ED waits, hospital-associated deconditioning, delirium and fragmented discharge.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **3.1 Embed early multidisciplinary frailty assessment in ED and acute assessment areas** | Organisational/clinical. Identifies reversible illness, baseline function, goals of care and alternatives to admission. | Medium. Requires geriatrician or advanced practitioner, nursing, therapy and social-care input. | **Moderate-to-strong; comprehensive geriatric assessment has supportive evidence, while the optimal ED model varies.** Within 1–3 years. | Geriatric workforce shortages, crowding and lack of community alternatives. | Time to frailty assessment; admission rate; delirium; falls; functional change; patient and carer experience. |
+| **3.2 Use early comprehensive geriatric assessment for admitted frail patients** | Organisational/clinical. Coordinates medical, nursing, therapy, medication and discharge planning. | Medium. Requires multidisciplinary staffing and protected time. | **Strong evidence for comprehensive geriatric assessment in appropriate hospital settings** (Ellis et al., 2017). Within 1–3 years. | Workforce and space; inconsistent fidelity. | Institutionalisation, length of stay, readmission, mortality, mobility and functional status. |
+| **3.3 Provide hospital-at-home or acute frailty-at-home for carefully selected patients** | Organisational/policy. Delivers hospital-level treatment in the person’s home, avoiding admission and reducing hospital harms. | High. Requires rapid response, diagnostics, medicines, therapy, overnight escalation and reliable carers. | **Moderate; hospital-at-home evidence supports selected groups, but outcomes depend heavily on eligibility and service maturity** (Shepperd et al., 2016; Shepperd et al., 2021). Within 3–5 years. | Workforce, rural geography, carer burden, digital exclusion and safeguarding. | Admissions avoided; mortality; adverse events; 30-day readmission; patient/carer outcomes; equity. |
+| **3.4 Introduce delirium prevention and early recognition bundles** | Clinical/organisational. Addresses cognition, hydration, mobility, sleep, sensory impairment and medication risk. | Low–medium. Requires staff training, equipment and ward/ED routines. | **Moderate; multicomponent prevention has supportive evidence, although implementation fidelity varies.** Within 1–3 years. | ED environment, noise, crowding and insufficient therapy/nursing time. | Delirium incidence; duration; falls; antipsychotic use; compliance with bundle. |
+
+**Classification:** Comprehensive geriatric assessment is strong. Hospital-at-home is promising and potentially high impact, but resource- and selection-sensitive.
+
+---
+
+## Priority 4. Strengthen urgent community response and alternatives to ED
+
+**Rationale:** Some urgent presentations can be assessed and treated at home or in community settings, particularly falls, minor infections, catheter problems, medication problems and exacerbations of chronic disease.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **4.1 Expand multidisciplinary urgent community response teams** with a defined response time | Policy/organisational. Provides rapid nursing, therapy, medical and social-care input to prevent ED conveyance or admission. | High. Requires workforce, vehicles, diagnostics, prescribing, therapy and 7-day coverage. | **Moderate/promising; UK service evidence exists, but comparative evidence is heterogeneous.** Within 3–5 years. | Recruitment, fragmented commissioning, rural coverage and demand exceeding capacity. | Response time; conveyance avoided; admission avoided; 7-day reattendance; patient safety; staff workload. |
+| **4.2 Provide same-day rapid response for falls and functional decline** | Organisational/clinical. Treats injury, dehydration, infection, medication problems and environmental risks without automatically conveying to ED. | Medium–high. Requires physiotherapy, occupational therapy, falls expertise and diagnostics. | **Promising; evidence varies by model and population.** Within 3 years. | Hidden injury, safeguarding, limited therapy and ambulance protocols. | ED conveyance; fracture detection; repeat falls; function; patient/carer experience. |
+| **4.3 Create direct referral routes from care homes, ambulance crews, NHS 111 and primary care to urgent community teams** | Organisational/policy. Avoids default ED referral when a safe alternative exists. | Low–medium once teams exist. Requires single referral criteria and clinical accountability. | **Promising; evidence is mostly service evaluation.** Within 1–3 years. | Risk aversion, medico-legal concerns and lack of shared records. | Referrals accepted; inappropriate referrals; conveyance rate; time to assessment; adverse events. |
+| **4.4 Provide community-based urgent diagnostics and prescribing** | Organisational/policy. Enables treatment of suspected infection, heart failure or COPD exacerbation without hospital attendance. | Medium–high. Requires point-of-care testing, imaging access, medicines and clinical governance. | **Context-dependent; evidence for individual tests is stronger than evidence for whole pathways.** Within 3–5 years. | Diagnostic accuracy, quality assurance, workforce and supply chains. | Diagnostic turnaround; treatment started same day; ED avoidance; safety-netting failures. |
+
+**Classification:** Important and potentially undervalued, but evidence is less consistent than for hospital-based interventions. The intervention should be evaluated by clinical subgroup, not simply by conveyance reduction.
+
+---
+
+## Priority 5. Improve hospital flow, ambulance handover and front-door streaming
+
+**Rationale:** ED crowding is associated with delays, poorer experience, staff harm and adverse outcomes. Flow interventions are central to winter resilience, but isolated ED changes cannot compensate for insufficient inpatient or social-care capacity.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **5.1 Implement rapid multidisciplinary streaming at the front door** | Organisational/clinical. Directs patients to resuscitation, minors, SDEC, frailty, mental health or primary-care alternatives according to clinical need. | Medium. Requires senior triage, trained nurses, diagnostics and clear pathways. | **Moderate; evidence supports structured streaming, but effects depend on downstream capacity.** Within 1–3 years. | Inappropriate streaming, queue displacement and staffing at peak times. | Time to first clinical assessment; time to treatment; streaming accuracy; breaches; harm events. |
+| **5.2 Use ambulance handover protocols with escalation triggers and a hospital-wide response** | Organisational/policy. Reduces ambulance queuing and maintains emergency response capacity. | Medium. Requires operational command, handover spaces, clinical escalation and ambulance–hospital data. | **Moderate; evidence is mainly observational and policy evaluation.** Within 1–3 years. | Bed shortages, corridor care, ambulance demand and competing priorities. | Handover within 15/30/60 minutes; ambulance turnaround; lost hours; clinical incidents; staff injury. |
+| **5.3 Introduce whole-hospital operational control with predicted demand and real-time bed status** | Organisational. Makes flow a hospital-wide responsibility rather than an ED problem. | Medium–high. Requires site management, reliable data, senior escalation and discharge coordination. | **Promising; operational studies support flow management, but causal evidence is variable.** Within 1–3 years. | Inaccurate data, lack of executive authority and incentives favouring individual departments. | ED occupancy; boarding time; time to inpatient bed; cancelled elective activity; length of stay. |
+| **5.4 Use a clinically governed, minimum-data “safety record” when the full GP record is unavailable** | Clinical/digital/organisational. Ensures access to allergies, medicines, anticoagulation, renal function, diagnoses, frailty, advance decisions and recent attendances. | Medium. Requires interoperability, consent/privacy governance and fallback processes. | **Promising; patient-safety rationale is strong, but outcome evidence for specific interoperability models is limited.** Within 3–5 years. | Information-governance concerns, poor data quality and incompatible systems. | Proportion with key data available; medication discrepancies; duplicated tests; adverse drug events; clinician-reported usefulness. |
+
+**Classification:** Front-door streaming and hospital-wide flow are high priority but context-sensitive. Digital access is promising rather than proven.
+
+---
+
+## Priority 6. Reduce medically fit delays and improve discharge to home or intermediate care
+
+**Rationale:** Delayed discharge reduces available beds, increases ED boarding and can cause deconditioning and hospital-acquired harm. It is a health and social-care system problem, not solely an ED problem.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **6.1 Start discharge planning at admission, including estimated date of discharge and expected functional goals** | Clinical/organisational. Aligns treatment, therapy, medicines and community arrangements early. | Low–medium. Requires multidisciplinary documentation and daily review. | **Moderate; discharge-planning interventions improve some outcomes, but effects vary** (Gonçalves-Bradley et al., 2016). Within 1 year. | Uncertainty early in admission, poor ownership and changing clinical status. | Estimated-date accuracy; discharge before midday; length of stay; readmission; patient preparedness. |
+| **6.2 Use multidisciplinary board rounds with an explicit “next three actions” plan** | Organisational. Identifies diagnostic, therapy, social-care and transport blockers each day. | Low–medium. Requires protected multidisciplinary time and escalation routes. | **Promising; much evidence is before–after or quality improvement.** Within 1 year. | Meeting burden and superficial compliance. | Delayed-day count; unresolved blockers; time from medically fit to discharge; length of stay. |
+| **6.3 Expand home-first/discharge-to-assess pathways** | Policy/organisational. Assesses longer-term care needs in the person’s usual environment and avoids unnecessary institutionalisation. | Medium–high. Requires reablement, therapy, equipment, transport and social-care capacity. | **Moderate; supported by UK evaluations and related transitional-care evidence, but service effects vary.** Within 1–3 years. | Social-care workforce, housing, carer availability and rurality. | Discharge destination; delayed days; care-home admissions; readmissions; functional outcomes. |
+| **6.4 Provide seven-day therapy, pharmacy and discharge coordination for high-risk patients** | Organisational. Removes weekend delays and reduces medication and follow-up failures. | Medium. Requires rota redesign and community availability. | **Moderate for selected components; evidence for universal seven-day provision is mixed.** Within 1–3 years. | Staffing costs, variable weekend demand and community closure. | Weekend discharges; medication errors; time to first community contact; readmission. |
+| **6.5 Establish joint NHS–local authority winter capacity plans** | Policy. Coordinates intermediate care, domiciliary care, care homes, equipment, transport and escalation. | Medium–high. Requires pooled planning, data sharing and workforce investment. | **Strong system rationale but limited experimental evidence.** Within 1–3 years. | Separate budgets, delayed procurement and workforce shortages. | Delayed transfers; social-care vacancy rates; care-package waiting time; system occupancy. |
+
+**Classification:** Early discharge planning and home-first are supported but implementation-sensitive. Joint capacity planning is essential yet evidence is mainly systems and policy evidence.
+
+---
+
+## Priority 7. Improve access to timely primary and community care, including NHS 111 and pharmacy
+
+**Rationale:** A&E is frequently used because it is perceived as accessible, reliable and able to provide diagnostics. Simply telling patients not to attend is unlikely to work unless credible alternatives exist.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **7.1 Provide enhanced same-day primary-care appointments during predictable winter peaks** | Policy/organisational. Offers a credible alternative for acute infections, medication problems and chronic-disease exacerbations. | Medium. Requires workforce, booking systems and clinical back-up. | **Moderate for improving access; evidence that it reduces total ED demand is mixed.** Within 1–3 years. | GP workforce, appointment fragmentation and demand substitution. | Same-day access; ED attendances by primary-care-sensitive condition; patient experience; continuity. |
+| **7.2 Expand pharmacist-led minor-illness and medication services with direct referral pathways** | Organisational/clinical. Treats self-limiting illness and resolves medication problems without ED attendance. | Low–medium. Requires trained pharmacists, prescribing authority where applicable, referral protocols and information sharing. | **Moderate-to-strong for appropriate minor ailments; effect on overall ED demand is uncertain.** Within 1–3 years. | Pharmacy capacity, remuneration and clinical escalation. | Consultations; cases managed; referrals to ED; antibiotic prescribing; patient outcomes. |
+| **7.3 Improve NHS 111 clinical assessment, direct booking and safety-netting** | Policy/digital/clinical. Directs patients to the most appropriate service and provides advice when immediate care is unnecessary. | Medium. Requires trained clinicians, service availability, algorithms and feedback loops. | **Moderate; NHS 111 and telephone triage evidence is mixed and may increase service utilisation in some groups.** Within 1–3 years. | Algorithm limitations, language barriers, digital exclusion and unavailable appointments. | Disposition accuracy; ED attendance within 24/72 hours; call abandonment; equity; complaints. |
+| **7.4 Use population health education focused on symptom severity, self-care and escalation** | Policy/community. Improves health literacy without discouraging appropriate emergency attendance. | Low–medium. Requires translated, accessible, culturally adapted communication through trusted organisations. | **Moderate for knowledge and self-management; weaker evidence for reducing ED attendance.** Within 1–3 years. | Message fatigue, mistrust and risk of unsafe reassurance. | Knowledge measures; avoidable attendance patterns; delayed presentation; equity. |
+
+**Classification:** Pharmacy and reliable same-day primary care are practical and potentially high-value. Public campaigns alone are weak evidence and should not be used as a substitute for service access.
+
+---
+
+## Priority 8. Build a safer, more sustainable emergency-care workforce
+
+**Rationale:** Winter pressure increases sickness absence, fatigue, violence, moral distress, turnover and error risk. Workforce interventions must reduce workload and improve job control rather than rely mainly on individual resilience training.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **8.1 Implement minimum staffing and skill-mix escalation plans linked to demand and acuity** | Organisational/policy. Matches staffing to workload and provides safe escalation before crowding becomes hazardous. | Medium–high. Requires workforce modelling, bank/agency arrangements and executive escalation. | **Moderate rationale; exact staffing thresholds have limited causal evidence.** Within 1–3 years. | Workforce shortages, financial constraints and unsafe reliance on temporary staff. | Nurse/doctor fill rates; acuity-adjusted workload; sickness absence; incidents; waiting times. |
+| **8.2 Provide protected rest, hydration, meal and recovery arrangements** | Organisational. Reduces fatigue-related error and improves worker safety and retention. | Low–medium. Requires rota and operational redesign. | **Moderate occupational-health evidence; direct ED winter outcome data limited.** Within 1 year. | Cultural normalisation of missed breaks and workload intensity. | Missed-break rate; fatigue scores; sickness absence; staff incidents; turnover. |
+| **8.3 Implement evidence-based violence-prevention systems**: environmental review, security response, de-escalation training and post-incident support | Organisational/policy. Reduces assault risk and supports reporting and recovery. | Medium. Requires security, training, environment and incident governance. | **Moderate; multicomponent approaches are more plausible than training alone.** Within 1–3 years. | Under-reporting, limited security resources and poor learning from incidents. | Assaults; staff injuries; reporting rate; response time; staff perception of safety. |
+| **8.4 Use structured team briefings, simulation and human-factors training for high-risk winter processes** | Clinical/organisational. Improves shared mental models, escalation and reliability during surges. | Low–medium. Requires educator time and protected training. | **Moderate for teamwork behaviours; direct patient-outcome evidence is variable.** Within 1–3 years. | Training release time and tokenistic implementation. | Training completion; escalation reliability; safety climate; critical-event learning. |
+| **8.5 Offer confidential, rapid-access occupational mental-health support** | Organisational. Supports staff with distress, trauma and burnout and may improve retention. | Medium. Requires occupational health, confidentiality and rapid appointments. | **Moderate for staff wellbeing; effects on patient outcomes and retention vary.** Within 1–3 years. | Stigma, lack of trust and insufficient occupational-health capacity. | Uptake; wellbeing/burnout scores; sickness absence; retention; psychological safety. |
+
+**Classification:** Multicomponent violence prevention and protected rest are undervalued because they are less visible than new clinical pathways, despite their likely effect on safety and retention. Individual resilience training alone is insufficient.
+
+---
+
+## Priority 9. Improve medicines safety, antimicrobial stewardship and diagnostic stewardship
+
+**Rationale:** Winter demand increases prescribing, polypharmacy, diagnostic uncertainty and transitions between services. Avoiding low-value tests and unsafe medicines can improve effectiveness, safety, efficiency and environmental sustainability.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **9.1 Pharmacist-led medicines reconciliation within 24 hours for high-risk patients** | Clinical/organisational. Detects omissions, duplications, anticoagulant errors and renal-dose problems. | Medium. Requires clinical pharmacists, access to GP/community records and prioritisation tools. | **Moderate-to-strong for detecting discrepancies; effects on admissions/readmissions vary.** Within 1–3 years. | Pharmacy workforce and incomplete medication records. | Reconciliation within 24 hours; discrepancies; medication-related incidents; readmission. |
+| **9.2 Antimicrobial stewardship bundles for respiratory and urinary presentations** | Clinical/organisational. Improves diagnostic justification, antibiotic choice, duration and review. | Low–medium. Requires guidelines, prescribing feedback, microbiology and decision support. | **Strong evidence that stewardship interventions improve prescribing; patient-outcome effects depend on design** (Davey et al., 2017). Within 1–3 years. | Diagnostic uncertainty, time pressure and fear of missing sepsis. | Antibiotic initiation; guideline concordance; duration; C. difficile; resistance; reattendance. |
+| **9.3 Use diagnostic stewardship for urine cultures, chest imaging and blood tests** | Clinical/organisational. Reduces false positives, incidental findings, iatrogenic anaemia and unnecessary treatment. | Low–medium. Requires criteria, order sets and feedback. | **Moderate for selected tests; inappropriate testing is common, but outcome evidence is pathway-specific.** Within 1–3 years. | Defensive medicine, clinician autonomy and concern about delayed diagnosis. | Tests per attendance; repeat testing; abnormal-result follow-up; diagnostic error; carbon/resource use. |
+| **9.4 Embed medication and diagnostic decision support into electronic ordering systems** | Digital/clinical. Provides renal-dose, allergy, interaction, guideline and appropriateness prompts at the point of care. | Medium–high. Requires interoperable systems, governance and usability testing. | **Moderate for prescribing safety; alert fatigue and variable effectiveness are recognised.** Within 3–5 years. | Poor integration, excessive alerts and unreliable data. | Override rates; serious prescribing errors; antibiotic appropriateness; test utilisation. |
+
+**Classification:** Antimicrobial stewardship is strong. Broad diagnostic stewardship is promising but should use condition-specific measures and must not reward under-testing.
+
+---
+
+## Priority 10. Establish interoperable information, risk stratification and learning systems
+
+**Rationale:** Emergency clinicians frequently make decisions without complete GP records. Better access to allergies, medicines, diagnoses, frailty, previous results, care plans and patient preferences can improve safety and efficiency.
+
+### Interventions
+
+| Intervention | Level and mechanism | Resources and implementation requirements | Evidence and feasibility | Barriers | Suggested indicators |
+|---|---|---|---|---|---|
+| **10.1 Provide view-only access to a minimum urgent-care dataset** | Policy/digital/clinical. Reduces duplicated testing, medication errors and inappropriate admissions. | Medium–high. Requires interoperability, identity matching, information governance and clinician training. | **Promising; safety rationale is strong, but causal outcome evidence is limited and implementation-dependent.** Within 3–5 years. | Data fragmentation, incompatible systems, consent and poor data quality. | Record availability; clinician access; duplicate tests; medication discrepancies; adverse events. |
+| **10.2 Use standardised electronic safety-netting and discharge communication** | Clinical/digital. Makes diagnosis, uncertainty, pending results, red flags and follow-up responsibilities explicit. | Low–medium. Requires templates, training and result ownership. | **Moderate for improving communication; direct reductions in harm are less certain.** Within 1–3 years. | Template burden, poor responsibility for pending results and language/accessibility problems. | Discharge-summary completion; patient comprehension; unreviewed results; reattendance. |
+| **10.3 Develop transparent demand and capacity dashboards** covering ED, beds, ambulance handover, discharge delays, community capacity and workforce | Organisational/policy. Supports earlier escalation and prevents local optimisation. | Medium. Requires data engineering, definitions and daily operational ownership. | **Promising; evidence is largely implementation and operational research.** Within 1–3 years. | Data latency, gaming of metrics and dashboard proliferation. | Data completeness; escalation timeliness; forecast accuracy; occupancy; delayed transfers. |
+| **10.4 Use risk stratification to target proactive intervention, with equity and safety review** | Policy/organisational. Identifies people at high risk of admission or deterioration for clinical review, not automatic exclusion from care. | Medium–high. Requires validated models, data science, clinical governance and monitoring for bias. | **Promising but uncertain; predictive performance does not automatically translate into improved outcomes.** Within 3–5 years. | Algorithmic bias, false positives, automation bias and poor intervention capacity. | Calibration by ethnicity/deprivation; intervention uptake; admissions; false-negative safety events; equity. |
+
+**Classification:** Minimum-data access is undervalued and likely high value, but the evidence is not yet equivalent to evidence for a clinical treatment. AI and predictive analytics should be treated as decision support, not autonomous triage.
+
+---
+
+# B. Cross-cutting intervention strategies
+
+## 1. Design winter services around whole pathways, not ED targets
+
+Interventions should be mapped from prevention to primary care, ambulance response, ED, inpatient care, rehabilitation, social care and reablement. Reducing ED attendances without improving the alternative may simply transfer risk or delay care.
+
+Useful pathway measures include:
+
+- total urgent-care demand;
+- time from symptom onset to assessment;
+- ambulance response and handover;
+- ED time to senior decision;
+- admission conversion;
+- bed occupancy and delayed transfers;
+- 7- and 30-day readmission;
+- mortality;
+- functional status;
+- patient and carer experience;
+- staff safety and workload;
+- carbon emissions and travel.
+
+## 2. Use minimum safe standards plus local adaptation
+
+Nationally standardise:
+
+- referral and exclusion criteria;
+- escalation triggers;
+- medicines and allergy information;
+- discharge and safety-netting content;
+- outcome definitions;
+- equity and safety measures.
+
+Allow local adaptation for:
+
+- rurality;
+- population age and deprivation;
+- availability of social care;
+- hospital size;
+- transport;
+- existing community services.
+
+## 3. Combine audit-and-feedback with decision support
+
+Audit should compare teams with a small number of meaningful measures and provide feedback at short intervals. Examples include:
+
+- antibiotic prescribing;
+- time to senior decision;
+- medication reconciliation;
+- ambulance handover;
+- delayed discharge;
+- delirium prevention;
+- vaccination uptake;
+- follow-up completion.
+
+Feedback is more likely to work when accompanied by clear standards, peer comparison, clinical leadership and the ability to act.
+
+## 4. Use equity as an implementation requirement
+
+All interventions should report outcomes by:
+
+- deprivation;
+- age;
+- sex;
+- ethnicity;
+- disability;
+- language;
+- rurality;
+- homelessness or unstable housing;
+- care-home status.
+
+A service that reduces overall attendances but increases delayed presentation among deprived or minority groups should not be considered successful.
+
+## 5. Build sustainability into pathway design
+
+Potential environmental actions include:
+
+- avoiding unnecessary admissions and travel;
+- reducing duplicate testing;
+- using virtual review where clinically safe;
+- choosing home-based rehabilitation when appropriate;
+- reducing single-use consumables and unnecessary printing;
+- incorporating carbon measures into pathway evaluations.
+
+However, virtual care is not automatically greener if it generates additional contacts, travel to multiple sites or repeat assessments.
+
+## 6. Protect staff capacity
+
+New pathways should include:
+
+- workforce impact assessment;
+- backfill for training;
+- realistic operating hours;
+- escalation arrangements;
+- protected breaks;
+- psychological and occupational-health support;
+- monitoring of workload transfer.
+
+An intervention that reduces ED workload by increasing unsustainable primary-care or social-care workload may not be a genuine improvement.
+
+---
+
+# C. Most high-yield, high-impact interventions
+
+The following are the strongest candidates for implementation within three years, subject to local capacity assessment.
+
+## 1. Comprehensive geriatric assessment and frailty front-door services
+
+**Why high yield:** Strong evidence for comprehensive geriatric assessment, clear patient-safety rationale and relevance to winter bed pressure.
+
+**Conditions for success:** Early assessment, therapy and social-care involvement, alternatives to admission and functional outcome measurement.
+
+## 2. Same-day emergency care for clearly defined patient groups
+
+**Why high yield:** Can avoid overnight admission while retaining hospital diagnostics and senior review.
+
+**Conditions for success:** SDEC must not be treated as a “rapid discharge” service without diagnostics, staffing or follow-up.
+
+## 3. Home-first/discharge-to-assess pathways
+
+**Why high yield:** Addresses bed availability and reduces unnecessary institutionalisation.
+
+**Conditions for success:** Adequate reablement, domiciliary care, equipment and seven-day community support.
+
+## 4. Antimicrobial stewardship
+
+**Why high yield:** Strong evidence, relatively low resource requirement and benefits for safety, effectiveness, resistance and environmental sustainability.
+
+**Conditions for success:** Combine prescribing feedback with diagnostic support and clinical review; avoid crude antibiotic-reduction targets.
+
+## 5. Vaccination and targeted respiratory prevention
+
+**Why high yield:** Established public-health intervention with equity benefits if delivered through trusted, accessible routes.
+
+**Conditions for success:** Measure uptake in underserved populations rather than relying only on overall coverage.
+
+## 6. Rapid urgent community response
+
+**Why high yield:** Potentially reduces avoidable ambulance conveyance and admission, particularly for falls, frailty and exacerbations.
+
+**Conditions for success:** Requires genuine clinical capacity, diagnostics, prescribing and escalation—not just a telephone referral service.
+
+## 7. Earlier discharge planning and daily multidisciplinary blocker removal
+
+**Why high yield:** Relatively feasible and addresses avoidable inpatient days.
+
+**Conditions for success:** Requires joint NHS–social-care accountability and measurement of functional outcomes, not discharge volume alone.
+
+## 8. Ambulance handover and whole-hospital flow systems
+
+**Why high yield:** Protects ambulance availability and reduces ED crowding.
+
+**Conditions for success:** Hospital-wide capacity and escalation are required; corridor care should not be normalised as a performance solution.
+
+## 9. Medicines reconciliation and medication safety
+
+**Why high yield:** Particularly important for older patients, people taking anticoagulants, people with renal impairment and those moving between care settings.
+
+**Conditions for success:** Access to reliable community medication records and prioritisation of high-risk patients.
+
+## 10. Staff safety, rest and violence prevention
+
+**Why high yield:** Worker safety is a prerequisite for sustainable patient safety and retention.
+
+**Conditions for success:** Address staffing and workload, not only individual resilience.
+
+---
+
+# D. Interventions feasible across a range of settings
+
+The following are adaptable to low-, lower-middle-, upper-middle- and high-income settings, although the exact model will differ:
+
+1. **Standardised clinical assessment and safety-netting**
+   - Red flags, escalation criteria, discharge instructions and documented follow-up.
+   - Requires training and governance more than expensive infrastructure.
+
+2. **Antimicrobial stewardship**
+   - Locally adapted guidelines, prescribing review, audit-feedback and education.
+   - Laboratory capacity may be limited, so simple syndrome-based protocols may be needed.
+
+3. **Vaccination outreach**
+   - Use schools, workplaces, community health workers, pharmacies and primary-care registers where available.
+
+4. **Early discharge planning**
+   - Identification of functional and social needs at admission.
+   - In resource-constrained systems, family and community-health-worker involvement may substitute for formal intermediate care, but safeguarding must be considered.
+
+5. **Frailty screening and basic comprehensive assessment**
+   - Functional history, cognition, mobility, medication review and goals of care can be implemented without advanced technology.
+
+6. **Structured handover and team briefings**
+   - Standardised verbal and written communication is low cost and widely transferable.
+
+7. **Appropriate diagnostic stewardship**
+   - Clear indications for urine testing, imaging and blood tests can reduce waste and false positives.
+
+8. **Minimum urgent-care information set**
+   - Where full interoperability is impossible, a structured paper, telephone or basic electronic summary may still improve medicines and allergy safety.
+
+Highly context-dependent interventions include hospital-at-home, virtual wards, predictive analytics, advanced SDEC, community diagnostics and seven-day social-care packages. They may be valuable in high-income systems but should not be assumed to transfer successfully without workforce, transport, diagnostic and governance infrastructure.
+
+---
+
+# E. Evidence gaps and research needs
+
+## 1. Whole-system winter packages
+
+There is limited high-quality evidence on which combinations of prevention, community response, SDEC, discharge and flow interventions produce the greatest net benefit. Studies should compare integrated packages rather than isolated initiatives.
+
+## 2. Unintended consequences
+
+Evaluations should measure:
+
+- delayed presentation;
+- inappropriate discharge;
+- repeat ED attendance;
+- ambulance reattendance;
+- workload transfer;
+- staff harm;
+- carer burden;
+- health inequalities;
+- carbon emissions.
+
+## 3. Hospital-at-home and virtual wards
+
+Research should identify:
+
+- which patient groups benefit;
+- minimum staffing and diagnostic requirements;
+- overnight escalation safety;
+- outcomes in rural areas;
+- impact on carers;
+- comparative cost-effectiveness;
+- equity for people without digital access.
+
+## 4. Community alternatives to ED
+
+Evidence is often based on before–after evaluations. More robust comparative designs are needed for:
+
+- urgent community response;
+- falls pathways;
+- care-home referral routes;
+- paramedic referral to alternative services;
+- NHS 111 disposition.
+
+## 5. Interoperability and access to GP records
+
+The safety case is persuasive, but outcome evidence is limited. Studies should assess whether access to structured information reduces:
+
+- medication errors;
+- repeat testing;
+- unnecessary admission;
+- diagnostic delay;
+- adverse events.
+
+## 6. Predictive analytics and artificial intelligence
+
+Research should report calibration, subgroup performance, false negatives, workload effects and clinical outcomes. A model’s predictive accuracy alone is insufficient evidence that it improves care.
+
+## 7. Workforce interventions
+
+More evidence is needed on whether protected breaks, staffing escalation, psychological support and violence-prevention programmes improve patient outcomes as well as staff outcomes.
+
+## 8. Equity-sensitive evaluation
+
+Studies should pre-specify equity outcomes. Overall averages may conceal poorer access or worse safety for people with limited English, disability, homelessness, poverty or rural isolation.
+
+## 9. Environmental sustainability
+
+Winter-care evaluations should include carbon and resource measures, while ensuring that lower-carbon pathways do not compromise access or shift travel and burden to patients and carers.
+
+---
+
+# Evidence classification summary
+
+| Category | Priorities/interventions |
+|---|---|
+| **Strongest evidence** | Comprehensive geriatric assessment; hospital-at-home for selected patients; discharge planning; antimicrobial stewardship; vaccination for prevention of severe respiratory disease; selected pulmonary rehabilitation interventions. |
+| **Moderate evidence with local variation** | SDEC; frailty front-door services; pharmacist minor-illness services; medicines reconciliation; delirium prevention; structured safety-netting; primary-care access interventions. |
+| **Promising but undervalued** | Staff rest and worker-safety interventions; minimum urgent-care data access; early discharge blocker removal; care-home direct referral; diagnostic stewardship. These may be undervalued because their benefits are distributed across the system and are less visible than new clinical services. |
+| **Mainly case-example or service-evaluation evidence** | Many virtual wards, urgent community-response models, demand dashboards, predictive-risk systems and specific ambulance-handover configurations. |
+| **Weak or inconsistent evidence** | Public education campaigns alone to reduce ED attendance; blanket expansion of telephone triage; unvalidated AI triage; universal virtual wards; isolated flow dashboards without additional operational capacity; individual resilience training without workload reduction. |
+
+---
+
+# Methodological cautions
+
+1. **Avoid equating fewer ED attendances with better care.** A reduction may represent improved prevention, but it may also represent delayed presentation or barriers to access.
+2. **Measure total system outcomes.** Include ED, ambulance, inpatient, primary care, community, social care and informal carers.
+3. **Do not overinterpret local before–after evaluations.** Winter demand, influenza prevalence, staffing and policy changes create substantial confounding.
+4. **Separate admission avoidance from safe admission avoidance.** The correct denominator is clinically eligible patients, not all attendances.
+5. **Use balancing measures.** At minimum: mortality, serious incidents, reattendance, readmission, patient experience, staff sickness and equity.
+6. **Do not rely on full GP-record access as a prerequisite for safe care.** Establish a minimum data set and robust fallback processes while interoperability improves.
+7. **Avoid introducing more pathways than the workforce can staff.** Complexity itself can increase delays and error.
+8. **Treat rankings as perspective-dependent.** An ED consultant is likely to rank crowding, front-door flow, frailty and discharge higher than a public-health specialist, GP, social-care leader or finance director.
+
+---
+
+# G. Reference list
+
+## Peer-reviewed evidence
+
+1. Davey P, Marwick CA, Scott CL, et al. Interventions to improve antibiotic prescribing practices for hospital inpatients. *Cochrane Database of Systematic Reviews*. 2017; Issue 2: CD003543.  
+   Supports antimicrobial stewardship interventions.
+
+2. Ellis G, Gardner M, Tsiachristas A, et al. Comprehensive geriatric assessment for older adults admitted to hospital. *Cochrane Database of Systematic Reviews*. 2017; Issue 9: CD006211.  
+   Supports comprehensive geriatric assessment.
+
+3. Gonçalves-Bradley DC, Lannin NA, Clemson LM, Cameron ID, Shepperd S. Discharge planning from hospital. *Cochrane Database of Systematic Reviews*. 2016; Issue 1: CD000313.  
+   Supports structured discharge planning.
+
+4. Shepperd S, Iliffe S, Doll HA, et al. Admission avoidance hospital at home. *Cochrane Database of Systematic Reviews*. 2016; Issue 9: CD007491.  
+   Supports hospital-at-home for selected patient groups.
+
+5. Shepperd S, Gonçalves-Bradley DC, Gott M, et al. Hospital at home: home-based end-of-life care. *Cochrane Database of Systematic Reviews*. 2021; Issue 3: CD009231.  
+   Relevant to selected home-based acute and end-of-life models, although not equivalent to all virtual-ward models.
+
+6. Morley C, Unwin M, Peterson GM, Stankovich J, Kinsman L. Emergency department Crowding: A systematic review of causes, consequences and solutions. *PLoS ONE*. 2018;13(8):e0203316.  
+   Supports the association between crowding, system causes and adverse consequences.
+
+7. Baugh CW, Venkatesh AK, Hilton JA, et al. Making greater use of the emergency department observation unit: an emerging alternative to hospitalization. *Emergency Medicine Journal*. 2016;33:505–512.  
+   Relevant to observation and ambulatory alternatives, though implementation is context-dependent.
+
+8. West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. *The Lancet*. 2016;388:2272–2281.  
+   Supports organisational and individual approaches to workforce wellbeing, with stronger evidence for combined approaches than individual resilience alone.
+
+9. Hall LH, Johnson J, Watt I, Tsipa A, O’Connor DB. Healthcare staff wellbeing, burnout, and patient safety: a systematic review. *PLoS ONE*. 2016;11(7):e0159015.  
+   Supports the relationship between staff wellbeing and patient-safety outcomes.
+
+10. O’Cathain A, Knowles E, Turner J, et al. Effectiveness of NHS 111: a national study of callers, services and outcomes. *BMJ Open*. 2018;8:e019152.  
+    Relevant to telephone triage and urgent-care navigation; does not establish that NHS 111 universally reduces ED demand.
+
+11. Snoswell CL, Taylor ML, Comans TA, Smith AC, Gray LC, Caffery LJ. Determining if telehealth can reduce health system costs: scoping review. *Journal of Medical Internet Research*. 2017;19:e47.  
+    Supports potential efficiency benefits but highlights substantial heterogeneity and context dependence.
+
+12. McDermott JH, et al. The impact of emergency department crowding on patient outcomes: a systematic review. *Emergency Medicine Journal*. 2018.  
+    Relevant to crowding and timeliness. The precise estimates vary by study and setting; local verification is recommended before quoting effect sizes.
+
+13. Kripalani S, Theobald CN, Anctil B, Vasilevskis EE. Reducing hospital readmission rates: current strategies and future directions. *Annual Review of Medicine*. 2014;65:471–485.  
+    Outside the requested ten-year window for some uses, but provides background on transitional care. It should not be used as the sole current evidence base.
+
+## Governmental and NHS sources
+
+14. NHS England. *Delivery plan for recovering urgent and emergency care services*. London: NHS England; 2023.
+
+15. NHS England. *Same Day Emergency Care: Clinical Standards*. London: NHS England; current operational guidance.
+
+16. NHS England. *Hospital discharge and community support guidance*. London: NHS England; 2022 and subsequent updates.
+
+17. NHS England. *Virtual ward care: clinical guidelines and operational guidance*. London: NHS England; 2022–2024.
+
+18. NHS England. *National vaccination guidance for influenza and COVID-19*. London: NHS England and UK Health Security Agency; annual updates.
+
+19. NHS England. *Urgent Community Response: two-hour response standard and operational guidance*. London: NHS England; 2022 and subsequent updates.
+
+20. UK Health Security Agency. *Annual flu surveillance and vaccine effectiveness reports*. London: UKHSA; annual reports.
+
+21. National Institute for Health and Care Excellence. *Delirium: prevention, diagnosis and management in hospital and long-term care*. NICE guideline CG103, updated 2023.
+
+22. National Institute for Health and Care Excellence. *Falls in older people: assessing risk and prevention*. NICE guideline CG161, updated 2025 where applicable.
+
+23. National Institute for Health and Care Excellence. *Antimicrobial stewardship: systems and processes for effective antimicrobial medicine use*. NICE guideline NG15.
+
+24. National Institute for Health and Care Excellence. *Emergency and acute medical care in over 16s: service delivery and organisation*. NICE guideline NG94.
+
+**Important verification note:** The peer-reviewed references above support the general intervention categories, but individual NHS pathways—particularly SDEC, virtual wards, urgent community response, ambulance handover and digital-risk tools—often have heterogeneous evidence. Before publication, each citation should be checked against the final intervention wording, publication date, journal record and population studied.
