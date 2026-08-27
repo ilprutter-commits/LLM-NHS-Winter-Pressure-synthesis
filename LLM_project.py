@@ -4,7 +4,6 @@ import requests
 from litellm import completion
 from pathlib import Path
 import time
-import numpy
 from numpy import random as rand, where
 
 
@@ -30,7 +29,7 @@ PERSONA_TITLES = ["British_Public",
                 "Patient/Caregiver",
                 "General_Practitioner",
                 "A&E_consultants",
-                "Consultant_in_respirator_old_age_medicince",
+                "General_medicine_consultant",
                 "Local_national-policy_maker",
                 "BioTech_Pharma_CEO",
                  ]
@@ -79,9 +78,7 @@ def load_prompts(persona_file, task_file, evidence_file, cross_LLM_prompts_file,
         evidence_prompt = c.read()
         cross_LLM_prompts = d.read()
         inter_model_cross_persona = e.read()
-        inter_persona_cross_model = f.read()
-        final_analysis = g.read()
-    return persona_items, task_prompt, evidence_prompt, cross_LLM_prompts, inter_model_cross_persona, inter_persona_cross_model, final_analysis
+    return persona_items, task_prompt, evidence_prompt, cross_LLM_prompts, inter_model_cross_persona
 
 
 def sanitise_for_filename(text):
@@ -241,7 +238,6 @@ def inter_model_comparison(LLM_response_list, model, cross_persona_comparisons_p
 
         try: 
             within_model_comparison_extraction = completion(
-                #model = "anthropic/claude-sonnet-4-5-20250929", - I dont yet have the claude API key
                 model = model,
                 messages = [
                     {"role": "user", "content": cross_persona_comparisons_prompt},
@@ -289,7 +285,7 @@ def inter_model_comparison(LLM_response_list, model, cross_persona_comparisons_p
 def Between_Model_comparions(cross_persona_comparisons, cross_LLM_prompts, model = "openrouter/deepseek/deepseek-v4-flash", tag = ""):
     LLM_model_ouputs_to_be_compared = ""
     max_retries = 50
-    #model = "openrouter/deepseek/deepseek-v4-flash"  # rated as #1 in health and academia. As such I will be using to compare outputs 
+
     for row in cross_persona_comparisons:
         Current_Model = row["model"]
         text = row["raw_output"]
@@ -355,9 +351,7 @@ def main():
         task_files, 
         evidence_files, 
         cross_LLM_prompts_file, 
-        inter_model_cross_persona_comparisons_prompt,
-        inter_persona_cross_model_prompt,
-        final_analysis_prompt
+        inter_model_cross_persona_comparisons_prompt
     )
 
 
