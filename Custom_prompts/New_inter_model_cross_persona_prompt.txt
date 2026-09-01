@@ -12,9 +12,9 @@ Synthesise these healthcare priorities identified by  the following personas:
 
 4. general medical consultant within A&E 
 
-5. respiratory or care of the elderly specialist 
+5. General_medicine_consultant
 
-6. commissioner of health care in an ICB 
+6. Local_national-policy_maker
 
 7. Med tech or health tech company CEO 
 

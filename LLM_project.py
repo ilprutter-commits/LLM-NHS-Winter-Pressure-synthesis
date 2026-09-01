@@ -4,7 +4,7 @@ import requests
 from litellm import completion
 from pathlib import Path
 import time
-from numpy import random as rand, where
+from numpy import random as rand
 
 
 # Comments -- for this to work, you must have a Custom_prompt folder in you path with these prompt text files in there.
@@ -13,8 +13,7 @@ task_files = Path("Custom_prompts") / "New_task_prompt.txt"
 evidence_files = Path("Custom_prompts") / "New_evidence_prompt.txt"
 cross_LLM_prompts_file = Path("Custom_prompts") / "New_cross_model_prompt.txt"
 inter_model_cross_persona_comparisons_prompt = Path("Custom_prompts") / "New_inter_model_cross_persona_prompt.txt"
-inter_persona_cross_model_prompt = Path("Custom_prompts") / "New_Model_inter_persona_prompt.txt" 
-final_analysis_prompt = Path("Custom_prompts") / "Final_analysis_prompt.txt"
+
 
 
 DEFAULT_MODELS = [
@@ -64,14 +63,12 @@ def write_to_file(file_name, content):
     return output_path
 
 
-def load_prompts(persona_file, task_file, evidence_file, cross_LLM_prompts_file, inter_model_cross_persona_file, inter_persona_cross_model_file, final_analysis_file):
+def load_prompts(persona_file, task_file, evidence_file, cross_LLM_prompts_file, inter_model_cross_persona_file):
     with open(persona_file, "r", encoding="utf-8") as a,\
         open(task_file, "r", encoding="utf-8") as b,\
         open(evidence_file, "r", encoding="utf-8") as c, \
         open(cross_LLM_prompts_file, "r", encoding="utf-8") as d, \
-        open(inter_model_cross_persona_file, "r", encoding="utf-8") as e, \
-        open(inter_persona_cross_model_file, "r", encoding="utf-8") as f, \
-        open(final_analysis_file, "r", encoding="utf-8") as g:
+        open(inter_model_cross_persona_file, "r", encoding="utf-8") as e:
         content = a.read()
         persona_items = content.split("####")
         task_prompt = b.read()
@@ -124,7 +121,7 @@ def Bias_Assessment(cross_persona_comparisons, cross_LLM_prompts):
     bias_check_instructions = (
     "Based on the following outputs, I'd like you to identify if the models are biased,"
     "toward their own outputs. This means if the assessor recognises an output made by "
-    "itself from a different chat and, when asked to compare, favors its own model's output."
+    "itself from a different chat and, when asked to compare, favours its own model's output."
     )
     max_retries = 5
     for attempt in range(1, max_retries + 1):
@@ -133,8 +130,8 @@ def Bias_Assessment(cross_persona_comparisons, cross_LLM_prompts):
                         model= final_random_assessor,
                         messages=[
                             {"role": "system", "content": f"{bias_check_instructions}\n\n{raw_output}"}
-                        ],
-                        timeout=180,
+                        ],     
+                timeout=180,
             )
             break
 
@@ -184,6 +181,9 @@ def prompting_data_collection_function(persona, task, evidence, model, file_name
                     {"role": "user", "content": task},
                     {"role": "user", "content": evidence}
                 ],
+                extra_body={
+                    "tools": [{"type": "openrouter:web_search"}]
+                }, 
                 timeout=180
             )
             break 
@@ -346,7 +346,7 @@ def main():
     os.environ["OPENROUTER_API_key"] = load_keys("open-router-API-key.txt")
 
     
-    personas, task_prompt, evidence, cross_LLM_prompts, inter_model_cross_persona, inter_persona_cross_model, final_analysis = load_prompts(
+    personas, task_prompt, evidence, cross_LLM_prompts, inter_model_cross_persona = load_prompts(
         persona_files, 
         task_files, 
         evidence_files, 
